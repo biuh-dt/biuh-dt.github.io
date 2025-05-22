@@ -2,7 +2,7 @@
 
 ### Resources:
 
-Courses: [courses.biuh-dt.com](courses.biuh-dt.com)
+Courses: [courses.biuh-dt.com](https://courses.biuh-dt.com/)
 
 ### Github:
 
