@@ -1,7 +1,11 @@
 # Digital Technologies
 
+## Resources:
+
 Courses: [courses.biuh-dt.com](courses.biuh-dt.com)
 
-[homepage@github](https://github.com/biuh-dt/biuh-dt.github.io)
+## Github:
+
+[homepage](https://github.com/biuh-dt/biuh-dt.github.io)
  
-[courses@github](https://github.com/biuh-dt/courses)
+[courses](https://github.com/biuh-dt/courses)
