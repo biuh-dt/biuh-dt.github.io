@@ -1,4 +1,20 @@
-# Digital Technologies
+# DT's Info
+
+---------------------------------------
+
+## Server:
+
+---------------------------------------
+
+ **IP**                  | [click](/ip.txt)                
+ **Port**                | 13579                                        
+ **Username**            | "dt" + student ID (e.g., dt2023000000)         
+ **Passwordd (default)** | "dt" + student ID + "@biuh" (e.g., dt2023000000@biuh) 
+
+* Please use it between 9:00 and 22:00.
+* System will kill all tasks of students at 24:00. 
+
+
 
 ### Resources:
 
@@ -7,7 +23,6 @@ Courses: [https://courses.biuh-dt.com/](https://courses.biuh-dt.com/)
 
 
 
-<br><br><br><br><br><br><br><br><br><br>
+---------------------------------------
 
----
-Github: [homepage](https://github.com/biuh-dt/biuh-dt.github.io) | [courses](https://github.com/biuh-dt/courses)
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="1">
