@@ -58,8 +58,8 @@ while True:
     this_date=getDate()
     #this_stat=getStat()
     this_info='\n'.join([this_ip,'\n',
-               'Last updated:'+this_date,'\n',
-               'Next update:'+str(round(this_sleep_time,3))+'s',
+               'Last updated: '+this_date,'\n',
+               'Next update: '+str(round(this_sleep_time,3))+'s',
                ])
     try:
         #################
