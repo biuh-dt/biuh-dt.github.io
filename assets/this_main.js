@@ -1,5 +1,5 @@
 
-const correctPassword = "bit";
+const correctPassword = "hallo";
 
 function checkPassword() {
     const input = document.getElementById("password").value;
