@@ -64,12 +64,19 @@ while True:
     try:
         #################
         sp.Popen(['git', 'pull','origin','main'],shell=False).wait()
+        #######
         open(ip_file,'w').write(this_info)
         sp.Popen(['git','add','ip.txt' ],shell=False).wait()
         sp.Popen(['git','commit','-m',"'Update ip.txt'" ],shell=False).wait()
         sp.Popen(['git','push','origin','main' ],shell=False).wait()
+        #######
         sp.Popen(['git','add','updateIP.py' ],shell=False).wait()
         sp.Popen(['git','commit','-m',"'Update updateIP.py'" ],shell=False).wait()
+        sp.Popen(['git','push','origin','main' ],shell=False).wait()
+        #######
+        sp.Popen(['cp', '/etc/systemd/system/updateIP.service','/home/zhangfeng/projects/biuh-dt.github.io'],shell=False).wait()
+        sp.Popen(['git','add','updateIP.service' ],shell=False).wait()
+        sp.Popen(['git','commit','-m',"'Update updateIP.service'" ],shell=False).wait()
         sp.Popen(['git','push','origin','main' ],shell=False).wait()
         #################
         open(log_file,'a').write(this_info)
