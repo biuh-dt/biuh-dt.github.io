@@ -1,5 +1,5 @@
 
-<img src="https://www.biuh-dt.com/img/biuh_building.jpg" height="50">
+<img src="https://www.biuh-dt.com/img/biuh_building.jpg" width="500">
 
 
 ---------------------------------------
