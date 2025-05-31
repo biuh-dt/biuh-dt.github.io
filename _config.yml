@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Digital Technologies
 logo: /img/biuh_logo.jpg
-description: Digital Technologies (DT) is a practice-integrated undergraduate program at Hainan Bielefeld University of Applied Sciences (BiUH). It brings together key disciplines such as data science, machine learning, network technologies, business analytics, and interdisciplinary applications.
+description: Digital Technologies (DT) is a practice-integrated undergraduate program at Hainan Bielefeld University of Applied Sciences (BiUH). 
+It brings together key disciplines such as data science, machine learning, network technologies, business analytics, and interdisciplinary applications.
 show_downloads: false
 google_analytics:
