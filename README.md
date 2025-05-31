@@ -1,7 +1,6 @@
 
 <img src="https://www.biuh-dt.com/img/biuh_building.jpg" width="500">
 
-
 ---------------------------------------
 
 ## Server:
@@ -15,15 +14,6 @@
 
 * Please use it between 9:00 and 22:00
 * System will kill all tasks of students at 24:00
-
-
-
-### Resources:
-
-Courses: [https://courses.biuh-dt.com/](https://courses.biuh-dt.com/)
-
-
-
 
 ---------------------------------------
 
