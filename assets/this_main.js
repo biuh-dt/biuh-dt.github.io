@@ -1,7 +1,7 @@
-<script>
-  const correctPassword = "dt@biuh";
 
-  function checkPassword() {
+const correctPassword = "dt@biuh";
+
+function checkPassword() {
     const input = document.getElementById("password").value;
     const message = document.getElementById("message");
 
@@ -13,10 +13,10 @@
     }
   }
 
-  // 添加回车监听
-  document.getElementById("password").addEventListener("keydown", function (event) {
+
+document.getElementById("password").addEventListener("keydown", function (event) {
     if (event.key === "Enter") {
       checkPassword();
     }
   });
-</script>
+
