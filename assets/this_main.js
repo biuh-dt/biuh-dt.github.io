@@ -1,12 +1,22 @@
-const correctPassword = "dt@biuh";
-function checkPassword() {
-              const input = document.getElementById("password").value;
-              const message = document.getElementById("message");
+<script>
+  const correctPassword = "dt@biuh";
 
-              if (input === correctPassword) {
-                  document.getElementById("password-form").style.display = "none";
-                  document.getElementById("protected-content").style.display = "block";
-              } else {
-                  message.textContent = "Wrong!";
-              }
-          }
+  function checkPassword() {
+    const input = document.getElementById("password").value;
+    const message = document.getElementById("message");
+
+    if (input === correctPassword) {
+      document.getElementById("password-form").style.display = "none";
+      document.getElementById("protected-content").style.display = "block";
+    } else {
+      message.textContent = "Wrong!";
+    }
+  }
+
+  // 添加回车监听
+  document.getElementById("password").addEventListener("keydown", function (event) {
+    if (event.key === "Enter") {
+      checkPassword();
+    }
+  });
+</script>
