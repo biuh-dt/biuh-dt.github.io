@@ -6,7 +6,7 @@
 
 ---------------------------------------
 
- **IP**                  | [click](/ip.txt)                
+ **IP**                  | [Click to get the latest IP address](/ip.txt)                
  **Port**                | 13579                                        
  **Username**            | "dt" + student ID (e.g., dt2023000000)         
  **Passwordd (default)** | "dt" + student ID + "@biuh" (e.g., dt2023000000@biuh) 
