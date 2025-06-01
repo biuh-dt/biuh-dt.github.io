@@ -25,6 +25,7 @@ window.onload = function () {
     if (sessionStorage.getItem("authenticated") === "true") {
       showContent();
     }
+    document.getElementById("loading").style.display = "none";
     document.body.classList.remove("hidden-until-ready");
   }
 
