@@ -6,7 +6,7 @@ function checkPassword() {
     const message = document.getElementById("message");
 
     if (input === correctPassword) {
-        
+      //localStorage.setItem("authenticated", "true"); 
       sessionStorage.setItem("authenticated", "true");
 
       showContent();
@@ -21,6 +21,7 @@ function showContent() {
   }
 
 window.onload = function () {
+    //if (localStorage.getItem("authenticated") === "true") {
     if (sessionStorage.getItem("authenticated") === "true") {
       showContent();
     }
