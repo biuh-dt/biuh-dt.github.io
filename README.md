@@ -1,4 +1,4 @@
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10">
 
 <p align="right">
   <img src="https://www.biuh-dt.com/img/biuh_building.jpg" width="500">
