@@ -25,6 +25,7 @@ window.onload = function () {
     if (sessionStorage.getItem("authenticated") === "true") {
       showContent();
     }
+    document.body.classList.remove("hidden-until-ready");
   }
 
 document.addEventListener("DOMContentLoaded", function () {
