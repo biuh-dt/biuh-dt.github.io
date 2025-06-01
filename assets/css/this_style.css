@@ -1,6 +1,13 @@
- #protected-content {
+
+.hidden-until-ready #password-form,
+.hidden-until-ready #protected-content {
+    display: none;
+  }
+
+#protected-content {
       display: none;
       }
+
 #password-form {
       margin-top: 100px;
       text-align: center;
