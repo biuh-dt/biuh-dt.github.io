@@ -18,6 +18,7 @@ function checkPassword() {
 function showContent() {
     document.getElementById("password-form").style.display = "none";
     document.getElementById("protected-content").style.display = "block";
+    document.getElementById("loading").style.display = "none";
   }
 
 window.onload = function () {
