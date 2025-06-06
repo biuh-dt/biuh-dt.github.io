@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculate SHA-256</title>
+</head>
+<body>
+
+<input type="text" id="inputText" placeholder="input">
+<button onclick="hashText()">Calculate SHA-256</button>
+
+<p>SHA-256：</p>
+<pre id="output"></pre>
+
+<script>
+  async function hashText() {
+    const text = document.getElementById('inputText').value;
+    const encoder = new TextEncoder();
+    const data = encoder.encode(text);
+
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+    document.getElementById('output').textContent = hashHex;
+  }
+</script>
+
+</body>
+</html>
