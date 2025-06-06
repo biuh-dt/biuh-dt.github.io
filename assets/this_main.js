@@ -57,6 +57,7 @@ async function hashText(text) {
 async function getHash(text) {
   const hash = await hashText(text);
   console.log(hash);
+  return hash;
 }
 
 const publicKey = "d3751d33f9cd5049c4af2b462735457e4d3baf130bcbb87f389e349fbaeb20b9";
