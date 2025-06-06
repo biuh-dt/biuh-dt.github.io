@@ -4,8 +4,8 @@ async function checkPassword() {
     const message = document.getElementById("message");
     const hash_input = await getHash(input);
 
-    alert(publicKey);
-    alert(hash_input);
+    //alert(publicKey);
+    //alert(hash_input);
     
     if (hash_input == publicKey) {
       //localStorage.setItem("authenticated", "true"); 
