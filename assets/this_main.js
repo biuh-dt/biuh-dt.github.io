@@ -1,11 +1,30 @@
 
-const correctPassword = "hallo";
+async function hashText(text) {
+    
+    const encoder = new TextEncoder();
+    const data = encoder.encode(text);
 
-function checkPassword() {
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+    return hashHex
+  }
+
+
+async function getHash(text) {
+  const hash = await hashText(text);
+  console.log(hash);
+}
+
+const publicKey = "d3751d33f9cd5049c4af2b462735457e4d3baf130bcbb87f389e349fbaeb20b9";
+
+async function checkPassword() {
     const input = document.getElementById("password").value;
     const message = document.getElementById("message");
-
-    if (input === correctPassword) {
+    const hash_input = await getHash(input);
+    
+    if (hash_input === publicKey) {
       //localStorage.setItem("authenticated", "true"); 
       sessionStorage.setItem("authenticated", "true");
 
@@ -39,20 +58,4 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 
-async function hashText(text) {
-    
-    const encoder = new TextEncoder();
-    const data = encoder.encode(text);
 
-    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-    const hashArray = Array.from(new Uint8Array(hashBuffer));
-    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
-
-    return hashHex
-  }
-
-
-async function getHash(text) {
-  const hash = await hashText(text);
-  console.log(hash);
-}
