@@ -67,13 +67,6 @@ var _hmt = _hmt || [];
         <p class="view">▸ <a href="/labs"> Labs </a></p>
 
         <br>
-
-        <p> 
-            <b>Contact</b>:<br> 
-            ZHANG Feng, PhD, Assoc Prof &nbsp;&nbsp;<a href='https://fzhang.bioinfo-lab.com/'>Info</a> <br>
-            Program Lead of Digital Technologies    <br>
-            Email: feng.zhang at hainan-biuh.edu.cn <br> 
-        </p>  
         
       </header>
       <section>
@@ -84,15 +77,20 @@ var _hmt = _hmt || [];
       
       <footer>
 
-      <button onclick="showMessage()"> Contact </button> &nbsp;｜&nbsp; <a href="/grants"> A.G. </a>
+      <button onclick="document.getElementById('popup').style.display='block'">Contact</button>  &nbsp;｜&nbsp; <a href="/grants"> A.G. </a>
+
+      <div id="popup" class="modal">
+          <div class="modal-content">
+              <b>Contact</b>:<br> 
+              ZHANG Feng, PhD, Assoc Prof &nbsp;&nbsp;<a href='https://fzhang.bioinfo-lab.com/'>Info</a> <br>
+              Program Lead of Digital Technologies    <br>
+              Email: feng.zhang at hainan-biuh.edu.cn <br> 
+              <button onclick="document.getElementById('popup').style.display='none'">Close</button>
+          </div>
+      </div>
         
       </footer>
     </div>
-    <script>
-    function showMessage() {
-        alert("feng.zhang at hainan-biuh.edu.cn");
-    }
-    </script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     
   </body>
