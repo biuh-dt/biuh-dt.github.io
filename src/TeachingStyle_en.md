@@ -64,27 +64,29 @@ The final assessment focuses on comprehensive project performance, emphasizing c
 
 ## 5. Final Grade Calculation
 ### 5.1 Multi-dimensional Evaluation
-**General Performance (On-going Tasks)**
-**Final Presentation (Group Work)**
-**Final Presentation (Individual Q&A)**
-**Final Exam (Written Test)**
+- **General Performance (On-going Tasks)**
+- **Final Presentation (Group Work)**
+- **Final Presentation (Individual Q&A)**
+- **Final Exam (Written Test)**
 
 ### 5.2 Key Points
-**Group Work**: This system supports the importance of group work, which is highly valued by international professors.
-**Fairness**: The inclusion of general performance, individual Q&A, and final exam results ensures fairness for students who perform well independently.
-**Ongoing Engagement**: General performance is assessed through attendance and task-based checkpoints.
-**Flexibility**: Instructors select evaluation dimensions based on the characteristics of each course, fully considering the uniqueness of each subject.
+- **Group Work**: This system supports the importance of group work, which is highly valued by international professors.
+- **Fairness**: The inclusion of general performance, individual Q&A, and final exam results ensures fairness for students who perform well independently.
+- **Ongoing Engagement**: General performance is assessed through attendance and task-based checkpoints.
+- **Flexibility**: Instructors select evaluation dimensions based on the characteristics of each course, fully considering the uniqueness of each subject.
 
 <br>
 
 ## 6. Additional Information
 ### 6.1 Course Features
-**Practice-Integrated Learning**: The focus is on ensuring students engage in practice-integrated learning, with high-level students being given time to explore and communicate with teachers.
-**Enhanced Communication**: Instructors continuously interact with students, dynamically capturing feedback to optimize teaching.
+- **Practice-Integrated Learning**: The focus is on ensuring students engage in practice-integrated learning, with high-level students being given time to explore and communicate with teachers.
+- **Enhanced Communication**: Instructors continuously interact with students, dynamically capturing feedback to optimize teaching.
 
 ### 6.2 HSBI Highlights
 - **International Collaboration**: Emphasis on global collaboration and intercultural competence.
 - **Teaching Inspirations**: Interactive teaching, hands-on learning, and regular curriculum updates.
+
+<br>
 
 ## 7. Conclusion
 The curriculum of this major integrates practical teaching, project-based orientation, and self-directed learning, 
