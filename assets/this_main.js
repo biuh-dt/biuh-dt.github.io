@@ -1,4 +1,19 @@
 
+function closeAllModals() {
+    document.querySelectorAll('.modal').forEach(modal => {
+      modal.style.display = 'none';
+    });
+  }
+
+window.addEventListener('click', function(event) {
+    document.querySelectorAll('.modal').forEach(modal => {
+      const content = modal.querySelector('.modal-content');
+      if (modal.style.display === 'block' && !content.contains(event.target)) {
+        modal.style.display = 'none';
+      }
+    });
+  });
+
 async function checkPassword() {
     const input = document.getElementById("password").value;
     const message = document.getElementById("message");
