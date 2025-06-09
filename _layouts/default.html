@@ -113,35 +113,42 @@ var _hmt = _hmt || [];
       </div>
       
       <script>
-        function updateTime() {
-          const chinaTime = new Date().toLocaleString("en-GB", {
-            timeZone: "Asia/Shanghai",
-            hour12: false,
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit',
-            hour: '2-digit',
-            minute: '2-digit',
-            second: '2-digit'
-          });
-    
-          const germanyTime = new Date().toLocaleString("en-GB", {
-            timeZone: "Europe/Berlin",
-            hour12: false,
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit',
-            hour: '2-digit',
-            minute: '2-digit',
-            second: '2-digit'
-          });
-    
-          document.getElementById("china-time").textContent = chinaTime;
-          document.getElementById("germany-time").textContent = germanyTime;
+      function formatTime(date, timeZone) {
+        const options = {
+          timeZone,
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+          hour: '2-digit',
+          minute: '2-digit',
+          hour12: false,
+        };
+  
+        const formatter = new Intl.DateTimeFormat('en-GB', options);
+        const parts = formatter.formatToParts(date);
+  
+        const getPart = type => parts.find(p => p.type === type).value;
+  
+        const year = getPart('year');
+        const month = getPart('month');
+        const day = getPart('day');
+        const hour = getPart('hour');
+        const minute = getPart('minute');
+  
+        return `${year}-${month}-${day}-${hour}:${minute}`;
+        }
+  
+      function updateTime() {
+        const now = new Date();
+        const chinaTime = formatTime(now, "Asia/Shanghai");
+        const germanyTime = formatTime(now, "Europe/Berlin");
+  
+        document.getElementById("china-time").textContent = chinaTime;
+        document.getElementById("germany-time").textContent = germanyTime;
         }
     
-        updateTime(); // initial call
-        setInterval(updateTime, 1000); // update every second
+      updateTime(); // initial call
+      setInterval(updateTime, 1000); // update every second
       </script>
 
       
