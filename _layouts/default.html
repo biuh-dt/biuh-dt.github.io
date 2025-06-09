@@ -121,6 +121,7 @@ var _hmt = _hmt || [];
           day: '2-digit',
           hour: '2-digit',
           minute: '2-digit',
+          second: '2-digit',
           hour12: false,
         };
   
@@ -134,8 +135,10 @@ var _hmt = _hmt || [];
         const day = getPart('day');
         const hour = getPart('hour');
         const minute = getPart('minute');
+        const second = getPart('second');
+        
   
-        return `${year}-${month}-${day}-${hour}:${minute}`;
+        return `${year}-${month}-${day}-${hour}:${minute}:${second}`;
         }
   
       function updateTime() {
