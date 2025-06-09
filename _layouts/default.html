@@ -79,7 +79,9 @@ var _hmt = _hmt || [];
       <footer>
 
       <a onclick="document.getElementById('popup_contact').style.display='block'">Contact</a>  &nbsp;｜&nbsp;
-      <a onclick="document.getElementById('popup_more').style.display='block'">More</a>
+      <a onclick="document.getElementById('popup_more').style.display='block'">More</a> <br>
+      China Time (Beijing): <span id="china-time"></span> <br>
+      Germany Time (Berlin): <span id="germany-time"></span>
 
       <div id="popup_contact" class="modal">
           <div class="modal-content">
@@ -107,6 +109,40 @@ var _hmt = _hmt || [];
               <button onclick="document.getElementById('popup_more').style.display='none'">Close</button>
           </div>
       </div>
+      
+      <script>
+        function updateTime() {
+          const chinaTime = new Date().toLocaleString("en-GB", {
+            timeZone: "Asia/Shanghai",
+            hour12: false,
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit'
+          });
+    
+          const germanyTime = new Date().toLocaleString("en-GB", {
+            timeZone: "Europe/Berlin",
+            hour12: false,
+            year: 'numeric',
+            month: '2-digit',
+            day: '2-digit',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit'
+          });
+    
+          document.getElementById("china-time").textContent = chinaTime;
+          document.getElementById("germany-time").textContent = germanyTime;
+        }
+    
+        updateTime(); // initial call
+        setInterval(updateTime, 1000); // update every second
+      </script>
+
+      
         
       </footer>
     </div>
