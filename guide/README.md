@@ -10,16 +10,12 @@ Trial Version, Digital Technologies, 2026.07.01
 
 1. Self-introduction 
 2. Your intended academic activity (brief introduction, one paragraph is enough)
-3. The academic background of the supervisor you hope to work with
+3. The academic background of the supervisor you hope to work with (you may also identify potential supervisors from the list of DT teachers below and include their names in your email)
 </b>
 
 Step 2. Professor Assistant and Program Lead will share the information in Faculty Committee Chat Group
 
 Step 3. Students will receive a response
-
-<br>
-
-You may also identify potential supervisors from the list of DT teachers below and include their names in your email.
 
 <br>
 
