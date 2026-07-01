@@ -13,7 +13,7 @@ Please start the application process at least <b> 3 WEEKS </b> in advance.
 
 Step 2. First-round check: Professor Assistant will review the information, and discuss with the Program Lead. (Approved or Rejected)
 
-<b> ★ Step 3. A PUBLIC PRESENTATION & DEFENCE (online or offline) shall be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
+<b> ★ Step 3. A PUBLIC PRESENTATION & DEFENCE (online or offline) will be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
 
 Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group. No response will be regarded as implicit approval. Please reply promptly if you object.
 
