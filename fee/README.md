@@ -7,7 +7,7 @@ Trial Version, Digital Technologies, 2026.07
 <br>
 
 ## I. Workflow:
-Please start the application process at least 2 weeks in advance.
+Please start the application process at least 3 weeks in advance.
 
 <b> Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
