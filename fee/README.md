@@ -30,10 +30,10 @@ Step 4. Final Decision: Approved or Rejected
 (Non-conference) 6. Breif Introduction of this academic activity.
 7. Budget (predicted total budget & conference registration fee)
 
-Demo (conference):
+<b> Demo (conference): </b>
 My name is {Your Name}. Recently I have finished a {Paper or Abstract} related to {Scientific Topic}, and this work is accepted by the {Conference Official Name}. The participation type is {Participation Type}. The conference will be held in {City, Country}, from {Start Date} to {End Date} {XXX days}. The total budget is around {XXXX RMB}, including a conference registration fee of {XXX RMB}.
 
-Demo (non-conference):
+<b> Demo (non-conference): </b>
 My name is {Your Name}. Recently I have finished a {Academic Work} related to {Scientific Topic}, and this work now requires covering expenses for {Academic Activity}. Here is the brief introduction to this academic activity: {Brief Introduction}. The total budget is around {XXXX RMB}.
 
 <br>
