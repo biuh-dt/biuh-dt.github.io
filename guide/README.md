@@ -2,5 +2,5 @@
 | Supervisor | Email | Courses | Brief Intro |
 |------|---------|------|-----|
 | ZHANG Feng | feng.zhang@hibiuh.edu.cn | Programming I, Data Mininig, Intro to Scientific Work, Biomedical Data Analysis (interest class)  | Guest Associate Professor of Shanghai Children’s Hospital, PhD in biostatistics from Fudan University; former Research Associate Professor at Shanghai Jiao Tong University School of Medicine; visiting scholar at Cincinnati Children's Hospital Medical Center (USA) |
-| LIU Dejang | dejang.liu@hibiuh.edu.cn | | Databases, Data Analytics & Machine Learning | PhD in Educational Data Analysis from Northern Illinois University (USA); former Teacher of Computer and Information Science at College of DuPage (USA); visiting professor at multiple universities in Myanmar and Vietnam |
+| LIU Dejang | dejang.liu@hibiuh.edu.cn | Databases, Data Analytics & Machine Learning | PhD in Educational Data Analysis from Northern Illinois University (USA); former Teacher of Computer and Information Science at College of DuPage (USA); visiting professor at multiple universities in Myanmar and Vietnam |
 
