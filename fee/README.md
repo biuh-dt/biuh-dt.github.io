@@ -15,7 +15,7 @@ Step 2. First-round check: Professor Assistant will review the information, and 
 
 <b> ★ Step 3. A PUBLIC PRESENTATION & DEFENCE (online or offline) will be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
 
-Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group. No response will be regarded as implicit approval. Please reply promptly if you object.
+Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group.
 
 Step 5. Final Decision: Approved or Rejected
 
