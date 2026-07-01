@@ -4,13 +4,15 @@ Trial Version, Digital Technologies, 2026.07.01
 
 <br>
 
-Students seeking <b> competition guidance, research mentorship or academic development support </b> may send an email to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn). The email shall contain 3 sections as follows:
+## I. Workflow:
 
-<b> ★ 1. Self-introduction </b>
+<b> ★ Step 1 Students seeking <b> competition guidance, research mentorship or academic development support </b> may send an email to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn). The email shall contain 3 sections as follows:
 
-<b> ★ 2. Your intended academic activity (brief introduction, one paragraph is enough) </b>
+1. Self-introduction 
+2. Your intended academic activity (brief introduction, one paragraph is enough)
+3. The academic background of the supervisor you hope to work with
 
-<b> ★ 3. The academic background of the supervisor you hope to work with </b>
+</b>
 
 <br>
 
