@@ -1,2 +1,15 @@
 
-<video controls width="100%" preload="none" src="https://www.biuh-dt.com/img/dt_promotion.mp4"></video>
+<video
+  id="myVideo"
+  autoplay
+  muted
+  playsinline
+  webkit-playsinline
+  x5-video-player-type="h5"
+  x5-video-player-fullscreen="false"
+  loop
+  preload="auto"
+  width="100%"
+  src="img/dt_promotion.mp4"
+  style="object-fit: cover;"
+></video>
