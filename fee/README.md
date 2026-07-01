@@ -59,7 +59,8 @@ My name is {Your Name}. Recently I have finished a {Academic Work} related to {S
 
 ## V. Contact:
 1. DT Program: [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn)
-2. DT Program Lead: Prof ZHANG Feng, [feng.zhang@hibiuh.edu.cn](mailto:feng.zhang@hibiuh.edu.cn)
+2. DT Professor Assistant: Ms TANG Tongyan, [tongyan.tang@hibiuh.edu.cn](mailto:tongyan.tang@hibiuh.edu.cn)
+3. DT Program Lead: Prof ZHANG Feng, [feng.zhang@hibiuh.edu.cn](mailto:feng.zhang@hibiuh.edu.cn)
 
 
 
