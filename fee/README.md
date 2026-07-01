@@ -17,7 +17,7 @@ Step 2. First-round check: Professor Assistant will review the information, and 
 
 Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group.
 
-Step 5. Final Decision: Approved or Rejected
+Step 5. Final Decision made by Faculty Committee: Approved or Rejected
 
 <b> ★ Step 6. Participants are required to submit a Reflection Document to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) after returning to campus (within 2 weeks). The detailed format and requirements will be specified by the supervisor or relevant faculty. </b>
 
