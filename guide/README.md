@@ -23,6 +23,8 @@ You may also identify potential supervisors from the list of DT teachers below a
 
 <br>
 
+## II. DT Teacher List:
+
 | Supervisor | Email | Courses | Brief Intro | More |
 |---|---|---|--------|-|
 | Auwal Sagir Muhammad | auwal.muhammad@hibiuh.edu.cn | Cluster Computing, Web Technologies, Big Data | PhD in Computer Science and Technology, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis | - |
