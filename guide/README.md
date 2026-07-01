@@ -6,6 +6,6 @@
 | Dirk Klann | dirk.klann@hibiuh.edu.cn | Innovation and Project Management, Fundamentals of Business Administration | PhD in Airport Operations from Cranfield University (UK); former service in the German Air Force; work experience at airport in Germany | - |
 | Leonid Smelov | leonid.smelov@hibiuh.edu.cn | Networking and IoT Solutions, Safety and Security | PhD in Computer Science, formerly a Senior Lecturer at the School of Computing, Electronics and Mathematics, Coventry University, UK | - |
 | DONG Yudong | yudong.dong@hibiuh.edu.cn | Programming 2 (OOP with Python), Algorithms and Data Structures | MBA from Tsinghua University; former Technical Director of Data Platform Department, London Stock Exchange | - |
-|------|---------|------|-----| - |
+| RUAN Yujie | yujie.ruan@hibiuh.edu.cn | Web Technologies, Data Mining, Networking and IoT Solutions | Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies | - |
 |------|---------|------|-----| - |
 |------|---------|------|-----| - |
