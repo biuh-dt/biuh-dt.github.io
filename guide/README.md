@@ -16,7 +16,7 @@ The email shall contain 3 sections as follows:
 
 Step 2. Professor Assistant and Program Lead will share the information in Faculty Committee Chat Group
 
-Step 3. Students will receive a response
+Step 3. Receive a response
 
 <br>
 
