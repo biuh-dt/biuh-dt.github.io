@@ -1,6 +1,7 @@
 
 <video
   id="myVideo"
+  controls
   autoplay
   muted
   playsinline
