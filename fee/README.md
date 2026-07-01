@@ -51,7 +51,9 @@ My name is {Your Name}. Recently I have finished a {Academic Work} related to {S
 1. All invoices and payment records must be retained.
 2. All other details must comply with the university’s reimbursement standards.
 3. For specific information in reimbursement standards, please consult Professor Assistant.
-4. If the supervisor accompanies the students to attend, they need to provide two separate paragraphs to describe the background information and budget for the students and the supervisor respectively. The document can be submitted by either the student or the supervisor. All information will be included in one single presidium proposal.
+4. If the supervisor accompanies the students to attend, they need to provide two separate paragraphs to describe the background information and budget for the students and the supervisor respectively. The document can be submitted by either the student or the supervisor.
+
+<br>
 
 ## V. Contact:
 1. DT Program: dt@hibiuh.edu.cn
