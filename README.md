@@ -2,7 +2,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>抖音强制横屏（16:9）</title>
   <style>
     /* 核心：强制16:9横屏容器，压住抖音竖屏逻辑 */
     .douyin-16x9 {
