@@ -7,5 +7,5 @@
 | Leonid Smelov | leonid.smelov@hibiuh.edu.cn | Networking and IoT Solutions, Safety and Security | PhD in Computer Science, formerly a Senior Lecturer at the School of Computing, Electronics and Mathematics, Coventry University, UK | - |
 | DONG Yudong | yudong.dong@hibiuh.edu.cn | Programming 2 (OOP with Python), Algorithms and Data Structures | MBA from Tsinghua University; former Technical Director of Data Platform Department, London Stock Exchange | - |
 | RUAN Yujie | yujie.ruan@hibiuh.edu.cn | Web Technologies, Data Mining, Networking and IoT Solutions | Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies | - |
-|------|---------|------|-----| - |
+| Kamran Aziz | kamran.aziz@hibiuh.edu.cn | Speech and Image Recognition, Assistance Systems | PhD in Cyberspace Security from Wuhan University; research areas include machine learning, natural language processing, and cybersecurity | - |
 |------|---------|------|-----| - |
