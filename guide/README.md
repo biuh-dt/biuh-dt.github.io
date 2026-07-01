@@ -14,7 +14,7 @@ Students seeking <b> competition guidance, research mentorship or academic devel
 
 <br>
 
-You may also identify potential supervisors from the list of DT faculty below and include their names in your email.
+You may also identify potential supervisors from the list of DT teachers below and include their names in your email.
 
 <br>
 
