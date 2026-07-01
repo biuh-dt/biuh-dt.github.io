@@ -26,17 +26,17 @@ Step 3. Receive a response
 
 <b> Supervisor | Email | Courses | Brief Intro </b>
 
-* Auwal Sagir Muhammad | auwal.muhammad@hibiuh.edu.cn | Cluster Computing, Web Technologies, Big Data | PhD in Computer Science and Technology, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis
+● Auwal Sagir Muhammad | auwal.muhammad@hibiuh.edu.cn | Cluster Computing, Web Technologies, Big Data | PhD in Computer Science and Technology, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis
   
-* Dirk Klann | dirk.klann@hibiuh.edu.cn | Innovation and Project Management, Fundamentals of Business Administration | PhD in Airport Operations from Cranfield University (UK); former service in the German Air Force; work experience at airport in Germany
+● Dirk Klann | dirk.klann@hibiuh.edu.cn | Innovation and Project Management, Fundamentals of Business Administration | PhD in Airport Operations from Cranfield University (UK); former service in the German Air Force; work experience at airport in Germany
   
-* DONG Yudong | yudong.dong@hibiuh.edu.cn | Programming 2 (OOP with Python), Algorithms and Data Structures | MBA from Tsinghua University; former Technical Director of Data Platform Department, London Stock Exchange
+● DONG Yudong | yudong.dong@hibiuh.edu.cn | Programming 2 (OOP with Python), Algorithms and Data Structures | MBA from Tsinghua University; former Technical Director of Data Platform Department, London Stock Exchange
 
-* Guilherme Viegas | guilherme.viegas@hibiuh.edu.cn | Lab Tech & Lab Activity | Master’s degree in Geospatial Technologies from the University of Münster, Germany; Bachelor’s degree in Economics from Federal University of Santa Catarina, Brazil. Previously worked as AI & Cloud Data Engineer 
+● Guilherme Viegas | guilherme.viegas@hibiuh.edu.cn | Lab Tech & Lab Activity | Master’s degree in Geospatial Technologies from the University of Münster, Germany; Bachelor’s degree in Economics from Federal University of Santa Catarina, Brazil. Previously worked as AI & Cloud Data Engineer 
 
-* HE Pu | pu.he@hibiuh.edu.cn | Lab Tech & Lab Activity | Master‘s degree in Internet of Things (IoT) and Robotics from the University of Canberra, Australia. Previously worked as an Electrical Engineer at China Coal Technology & Engineering Group Chongqing Design & Research Institute Co., Ltd.
+● HE Pu | pu.he@hibiuh.edu.cn | Lab Tech & Lab Activity | Master‘s degree in Internet of Things (IoT) and Robotics from the University of Canberra, Australia. Previously worked as an Electrical Engineer at China Coal Technology & Engineering Group Chongqing Design & Research Institute Co., Ltd.
 
-* Kamran Aziz | kamran.aziz@hibiuh.edu.cn | Speech and Image Recognition, Assistance Systems | PhD in Cyberspace Security from Wuhan University; research areas include machine learning, natural language processing, and cybersecurity
+● Kamran Aziz | kamran.aziz@hibiuh.edu.cn | Speech and Image Recognition, Assistance Systems | PhD in Cyberspace Security from Wuhan University; research areas include machine learning, natural language processing, and cybersecurity
 
 * Leonid Smelov | leonid.smelov@hibiuh.edu.cn | Networking and IoT Solutions, Safety and Security | PhD in Computer Science, formerly a Senior Lecturer at the School of Computing, Electronics and Mathematics, Coventry University, UK
 
