@@ -59,6 +59,3 @@ My name is {Your Name}. Recently I have finished a {Academic Work} related to {S
 
 
 
-
-
-<img width="468" height="644" alt="image" src="https://github.com/user-attachments/assets/ce43761c-1a9d-440f-b811-f4aa9fe136e7" />
