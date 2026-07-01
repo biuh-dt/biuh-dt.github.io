@@ -9,7 +9,7 @@ Trial Version, Digital Technologies, 2026.07
 ## I. Workflow:
 Please start the application process at least 2 weeks in advance.
 
-<b> Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to dt@hibiuh.edu.cn </b>
+<b> Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
 Step 2. First-round check: Professor Assistant will review the information, and discuss with the Program Lead. (Approved or Rejected)
 
@@ -17,7 +17,7 @@ Step 3. Second-round check: Professor Assistant share the “Required Informatio
 
 Step 4. Final Decision: Approved or Rejected
 
-<b> Step 5. Participants are required to submit a Reflection Document to dt@hibiuh.edu.cn after returning to campus (within 2 weeks). The detailed format and requirements will be specified by the supervisor or relevant faculty. </b>
+<b> Step 5. Participants are required to submit a Reflection Document to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) after returning to campus (within 2 weeks). The detailed format and requirements will be specified by the supervisor or relevant faculty. </b>
 
 <br>
 
@@ -40,10 +40,10 @@ My name is {Your Name}. Recently I have finished a {Academic Work} related to {S
 
 ## III. Supporting Documents (one ZIP or RAR file): 
 1. Accepted Paper (PDF) or Academic Work
-(Conference only) 2. Acceptance Letter (Screenshot or saved as PDF from email)
-(Conference only) 3. Website link and Screenshot of the conference official website
-(Conference only) 4. Website link and Screenshot of the fee information on the conference website
-(Non-conference) 5. All possible supporting materials for the academic activity.
+2. Acceptance Letter (Screenshot or saved as PDF from email)
+3. Website link and Screenshot of the conference official website
+4. Website link and Screenshot of the fee information on the conference website
+5. (Non-conference) All possible supporting materials for the academic activity.
 
 <br>
 
