@@ -22,7 +22,7 @@ Step 3. Students will receive a response
 
 ## II. DT Teacher List:
 
-<div style="font-size:12px;">
+<div style="font-size:10px;">
 
 | Supervisor | Email | Courses | Brief Intro |
 |---|---|---|--------|
