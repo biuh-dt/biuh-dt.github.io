@@ -2,7 +2,7 @@
 
 # Academic-related Fee Application
 
-Trial Version, Digital Technologies, 2026.07
+Trial Version, Digital Technologies, 2026.07.01
 
 <br>
 
