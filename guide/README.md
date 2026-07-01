@@ -9,7 +9,7 @@
 | RUAN Yujie | yujie.ruan@hibiuh.edu.cn | Web Technologies, Data Mining, Networking and IoT Solutions | Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies | - |
 | Kamran Aziz | kamran.aziz@hibiuh.edu.cn | Speech and Image Recognition, Assistance Systems | PhD in Cyberspace Security from Wuhan University; research areas include machine learning, natural language processing, and cybersecurity | - |
 | Auwal Sagir Muhammad | auwal.muhammad@hibiuh.edu.cn | Cluster Computing, Web Technologies, Big Data | PhD in Computer Science and Technology, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis | - |
-|------|---------| Lab Tech |-----| - |
+| LI Yue | yue.li@hibiuh.edu.cn | Lab Tech | Bachelor of Software Engineering from University of South Australia; former research experience at Griffith University (Australia) | - |
 |------|---------| Lab Tech |-----| - |
 |------|---------| Lab Tech |-----| - |
 |------|---------| Lab Tech |-----| - |
