@@ -9,17 +9,17 @@ Trial Version, Digital Technologies, 2026.07.01
 ## I. Workflow:
 Please start the application process at least <b> 3 WEEKS </b> in advance.
 
-<b> Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
+<b> ▸ Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
 Step 2. First-round check: Professor Assistant will review the information, and discuss with the Program Lead. (Approved or Rejected)
 
-<b> Step 3. A public presentation and defence (online or offline) shall be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
+<b> ▸ Step 3. A public presentation and defence (online or offline) shall be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
 
 Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group. No response will be regarded as implicit approval. Please reply promptly if you object.
 
 Step 5. Final Decision: Approved or Rejected
 
-<b> Step 6. Participants are required to submit a Reflection Document to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) after returning to campus (within 2 weeks). The detailed format and requirements will be specified by the supervisor or relevant faculty. </b>
+<b> ▸ Step 6. Participants are required to submit a Reflection Document to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) after returning to campus (within 2 weeks). The detailed format and requirements will be specified by the supervisor or relevant faculty. </b>
 
 <br>
 
