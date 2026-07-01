@@ -4,6 +4,8 @@
 
 Trial Version, Digital Technologies, 2026.07
 
+<br>
+
 ## I. Workflow:
 Please start the application process at least 2 weeks in advance.
 
@@ -16,6 +18,8 @@ Step 3. Second-round check: Professor Assistant share the “Required Informatio
 Step 4. Final Decision: Approved or Rejected
 
 <b> Step 5. Participants are required to submit a Reflection Document to dt@hibiuh.edu.cn after returning to campus (within 2 weeks). The detailed format and requirements will be specified by the supervisor or relevant faculty. </b>
+
+<br>
 
 ## II. Required Information (one paragraph):
 1. Your Name & Several keywords of the scientific topic
@@ -32,6 +36,7 @@ My name is {Your Name}. Recently I have finished a {Paper or Abstract} related t
 Demo (non-conference):
 My name is {Your Name}. Recently I have finished a {Academic Work} related to {Scientific Topic}, and this work now requires covering expenses for {Academic Activity}. Here is the brief introduction to this academic activity: {Brief Introduction}. The total budget is around {XXXX RMB}.
 
+<br>
 
 ## III. Supporting Documents (one ZIP or RAR file): 
 1. Accepted Paper (PDF) or Academic Work
@@ -40,13 +45,15 @@ My name is {Your Name}. Recently I have finished a {Academic Work} related to {S
 (Conference only) 4. Website link and Screenshot of the fee information on the conference website
 (Non-conference) 5. All possible supporting materials for the academic activity.
 
-### IV. Note:
+<br>
+
+## IV. Note:
 1. All invoices and payment records must be retained.
 2. All other details must comply with the university’s reimbursement standards.
 3. For specific information in reimbursement standards, please consult Professor Assistant.
 4. If the supervisor accompanies the students to attend, they need to provide two separate paragraphs to describe the background information and budget for the students and the supervisor respectively. The document can be submitted by either the student or the supervisor. All information will be included in one single presidium proposal.
 
-V. Contact:
+## V. Contact:
 1. DT Program: dt@hibiuh.edu.cn
 2. DT Program Lead: Prof ZHANG Feng, feng.zhang@hibiuh.edu.cn 
 
