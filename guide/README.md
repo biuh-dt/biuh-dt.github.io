@@ -3,7 +3,9 @@
 Students seeking competition guidance, research mentorship or academic development support may send an email to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn). The email shall contain three sections as follows:
 
 <b> 1. Self-introduction; </b>
+
 <b> 2. Your intended research or project plans; </b>
+
 <b> 3. The academic background of the supervisor you hope to work with. </b>
 
 You may also identify potential supervisors from the list of DT faculty below and include their names in your email.
