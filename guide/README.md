@@ -35,7 +35,7 @@ Step 3. Students will receive a response
 | LI Yue | yue.li <br> @hibiuh.edu.cn | Lab Tech & Coordinate | Bachelor of Software Engineering from University of South Australia; former research experience at Griffith University (Australia) |
 | PAN Qunyi | qunyi.pan <br> @hibiuh.edu.cn | Lab Tech & Computer Lab | Bachelor's degree in Electrical and Computer Engineering from Oregon State University, USA. His research interests include personal data acquisition devices and robotics |
 | RUAN Yujie | yujie.ruan <br> @hibiuh.edu.cn | Web Technologies, Data Mining, Networking and IoT Solutions | Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies |
-| ZHANG Feng | feng.zhang <br> @hibiuh.edu.cn | Programming 1, Data Mininig, Intro to Scientific Work, Biomedical Data Analysis (interest class)  | Guest Associate Professor of Shanghai Children’s Hospital, PhD in biostatistics from Fudan University; former Research Associate Professor at Shanghai Jiao Tong University School of Medicine; visiting scholar at Cincinnati Children's Hospital Medical Center (USA) |
+| ZHANG Feng | feng.zhang <br> @hibiuh.edu.cn | Programming 1, Data Mininig, Intro to Scientific Work, Biomedical Data Analysis (interest class) | PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at Shanghai Jiao Tong University School of Medicine; visiting scholar at Cincinnati Children's Hospital Medical Center (USA) |
 
 
 
