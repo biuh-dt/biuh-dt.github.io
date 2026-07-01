@@ -1,6 +1,6 @@
 # Academic Guidance Application
 
-Students seeking competition guidance, research mentorship or academic development support may send an email to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn). The email shall contain three sections as follows:
+Students seeking <b> competition guidance, research mentorship or academic development support </b> may send an email to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn). The email shall contain three sections as follows:
 
 <b> 1. Self-introduction; </b>
 
@@ -8,8 +8,11 @@ Students seeking competition guidance, research mentorship or academic developme
 
 <b> 3. The academic background of the supervisor you hope to work with. </b>
 
+<br>
+
 You may also identify potential supervisors from the list of DT faculty below and include their names in your email.
 
+<br>
 
 | Supervisor | Email | Courses | Brief Intro | More |
 |---|---|---|--------|-|
