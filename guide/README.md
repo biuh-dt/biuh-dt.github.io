@@ -22,6 +22,8 @@ Step 3. Students will receive a response
 
 ## II. DT Teacher List:
 
+<div style="font-size:12px;">
+
 | Supervisor | Email | Courses | Brief Intro |
 |---|---|---|--------|
 | Auwal Sagir Muhammad | auwal.muhammad <br> @hibiuh.edu.cn | Cluster Computing, Web Technologies, Big Data | PhD in Computer Science and Technology, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis |
@@ -37,5 +39,5 @@ Step 3. Students will receive a response
 | RUAN Yujie | yujie.ruan <br> @hibiuh.edu.cn | Web Technologies, Data Mining, Networking and IoT Solutions | Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies |
 | ZHANG Feng | feng.zhang <br> @hibiuh.edu.cn | Programming 1, Data Mininig, Intro to Scientific Work, Biomedical Data Analysis (interest class) | PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at Shanghai Jiao Tong University School of Medicine; visiting scholar at Cincinnati Children's Hospital Medical Center (USA) |
 
-
+</div>
 
