@@ -1,35 +1,33 @@
-<html lang="zh-CN">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    /* 核心：强制16:9横屏容器，压住抖音竖屏逻辑 */
-    .douyin-16x9 {
+    .douyin-landscape {
       position: relative;
       width: 100%;
       max-width: 1200px;
       margin: 20px auto;
-      /* 16:9 双保险：兼容所有浏览器 */
-      padding-bottom: 56.25%;
+      padding-bottom: 56.25%; /* 16:9 兼容写法 */
       aspect-ratio: 16/9;
       height: 0;
       overflow: hidden;
-      background: #000; /* 黑边背景，视觉更像横屏 */
+      background: #000; /* 黑色背景填充黑边 */
     }
-    .douyin-16x9 iframe {
+    .douyin-landscape iframe {
       position: absolute;
-      top: 0;
-      left: 0;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); /* 核心：让iframe在容器里居中 */
       width: 100%;
       height: 100%;
       border: 0;
-      /* 关键：视频按原比例居中，不拉伸、不裁剪，自动黑边 */
-      object-fit: contain;
+      object-fit: contain; /* 保持视频原始比例，不拉伸 */
     }
   </style>
 </head>
 <body>
-  <div class="douyin-16x9">
+  <div class="douyin-landscape">
     <iframe
       src="https://open.douyin.com/player/video?vid=7656298464939517376&autoplay=1&muted=1"
       referrerpolicy="unsafe-url"
@@ -37,9 +35,5 @@
       allowfullscreen
       scrolling="no"
       playsinline
-      x5-video-player-type="h5-page"
-      x5-video-orientation="landscape"
     ></iframe>
   </div>
-</body>
-</html>
