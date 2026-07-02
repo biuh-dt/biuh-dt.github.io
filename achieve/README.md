@@ -4,7 +4,7 @@ S: Student, T: Teacher
 
 ## 2025.07-2026.06
 
-* 2026
+* 2026.06, Competition, HONG Ziyi [S], QIN Qi [S], LI Chenhao [S], TIAN Zheming [S], CAI Ruilang [S], ZHANG Feng [T], University-level Excellence Award, 15th Challenge Cup 
 
 * 2026.05, Competition, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meriorious Winner, 2026 Mathematical Contest In Modeling
 
