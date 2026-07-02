@@ -14,3 +14,9 @@
   src="img/dt_promotion.mp4"
   style="object-fit: cover;"
 ></video>
+
+<br>
+
+<img src="img/AAW.png" alt="aaw" width="300" align="left">
+
+
