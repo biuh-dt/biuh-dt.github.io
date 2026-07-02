@@ -1,4 +1,4 @@
-# Academic Achievements
+<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/7f73fac1-93cb-405d-a3e8-1631b6513581" /># Academic Achievements
 
 <b> S: Student, T: Teacher </b>
 
@@ -11,6 +11,8 @@
 * 2026.06, Competition, HONG Ziyi [S], QIN Qi [S], LI Chenhao [S], TIAN Zheming [S], CAI Ruilang [S], ZHANG Feng [T], University-level Excellence Award, 15th "Challenge Cup" China College Student Entrepreneurship Plan Competition
 
 * 2026.06, Competition, DONG Haoxiang [S], LI Zetao [S], RUAN Yujie [T], Provicial Second Prize, 2026 Cross-Strait Mobile Application Innovation Competition
+
+* 2026.06, Patent & Certificate & Others, Kamran Aziz [T], No. 20 2026 102 585, THz-Based Combined Communication and Sensor System for Smart-City Infrastructure, German Utility Model
 
 * 2026.05, Conference, CHEN Zhuo [S], MEI Zhengyong [S], Abstract Acceptance & Oral Presentation, Research on Enhancing the Power Supply Resilience of Typhoon Monitoring System Based on Offshore Wind Power Water System Zinc Ion Battery Hybrid Microgrid, OCEANS 2026 Sanya
 
@@ -27,6 +29,8 @@
 * 2026.03, Paper, ZHANG Feng [T], co-first & co-corresponding author, Single-cell ATAC-seq analysis of human embryoid bodies reveals crucial transcription factor networks involved in early germ layer specification, Cell & Bioscience
 
 * 2026.03, Paper, ZHANG Feng [T], co-author, Endogenous VEGF signaling acts as a guardian of human primed pluripotency, Nature Communications
+
+* 2026.02, Patent & Certificate & Others, Kamran Aziz [T], No. 20 2026 100 674, A Federated Multi-Model Data Processing System for Heterogeneous Healthcare Environments, German Utility Model
 
 * 2026.01, Paper, Kamran Aziz [T], correspnding author, A hybrid machine learning approach for detecting DDoS attacks in software-defined networks, Scientific Reports
 
