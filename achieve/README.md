@@ -1,4 +1,4 @@
-# Academic Achievement
+# Academic Achievements
 
 S: Student, T: Teacher
 
