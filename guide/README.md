@@ -46,7 +46,7 @@ Step 3. Receive a response
 
 * RUAN Yujie \| yujie.ruan@hibiuh.edu.cn \| Web Technologies, Data Mining, Networking and IoT Solutions \| Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies
 
-* ZHANG Feng \| feng.zhang@hibiuh.edu.cn \| Programming 1, Data Mininig, Intro to Scientific Work, Sequencing Data Analysis (interest class) \| PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at Shanghai Jiao Tong University School of Medicine; visiting scholar at Cincinnati Children's Hospital Medical Center (USA)
+* ZHANG Feng \| feng.zhang@hibiuh.edu.cn \| Programming 1, Data Mininig, Intro to Scientific Work, Sequencing Data Analysis (interest class) \| PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at SJTU School of Medicine; visiting scholar at CCHMC (USA)
 
 
 
