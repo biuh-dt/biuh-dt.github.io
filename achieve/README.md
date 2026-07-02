@@ -8,7 +8,7 @@ S: Student, T: Teacher
 
 * 2026.06, <b>Competition</b>, DONG Haoxiang [S], LI Zetao [S], RUAN Yujie [T], Provicial Second Prize, 2026 Cross-Strait Mobile Application Innovation Competition
 
-* 2026.05, <b>Conference</b>, CHEN Zhuo [S], MEI Zhengyong [S], Research on Enhancing the Power Supply Resilience of Typhoon Monitoring System Based on Offshore Wind Power Water System Zinc Ion Battery Hybrid Microgrid, Oral Presentation, OCEANS 2026 Sanya
+* 2026.05, <b>Conference</b>, CHEN Zhuo [S], MEI Zhengyong [S], Abstract Acceptance & Oral Presentation, Research on Enhancing the Power Supply Resilience of Typhoon Monitoring System Based on Offshore Wind Power Water System Zinc Ion Battery Hybrid Microgrid, OCEANS 2026 Sanya
 
 * 2026.05, <b>Competition</b>, SHAO Jingzhou [S], SHI Yang [S], HUANG Yixuan [S], RUAN Yujie [T], Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
 
