@@ -24,7 +24,7 @@ Step 3. Receive a response
 
 <b> Supervisor \| Email \| Courses \| Brief Intro </b>
 
-* Auwal Sagir Muhammad \| auwal.muhammad@hibiuh.edu.cn \| Cluster Computing, Web Technologies, Big Data \| PhD in Computer Science and Technology, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis
+* Auwal Sagir Muhammad \| auwal.muhammad@hibiuh.edu.cn \| Cluster Computing, Web Technologies, Big Data \| PhD in Computer Science and Technology from Xiamen University, with research interests including deep learning, traffic risk assessment, environmental impact analysis, and data synthesis
   
 * Dirk Klann \| dirk.klann@hibiuh.edu.cn \| Innovation and Project Management, Fundamentals of Business Administration \| PhD in Airport Operations from Cranfield University (UK); former service in the German Air Force; work experience at airport in Germany
 
