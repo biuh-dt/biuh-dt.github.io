@@ -4,9 +4,15 @@ S: Student, T: Teacher
 
 ## 2025.07-2026.06
 
-* 2026.06, <b>Competition</b>, HONG Ziyi [S], QIN Qi [S], LI Chenhao [S], TIAN Zheming [S], CAI Ruilang [S], ZHANG Feng [T], University-level Excellence Award, 15th Challenge Cup 
+* 2026.06, <b>Competition</b>, HONG Ziyi [S], QIN Qi [S], LI Chenhao [S], TIAN Zheming [S], CAI Ruilang [S], ZHANG Feng [T], University-level Excellence Award, 15th Challenge Cup
 
-* 2026.05, <b>Conference</b>, CHEN Zhuo [S], MEI Zhengyong [S], Research on Enhancing the Power Supply Resilience of Typhoon Monitoring System Based on Offshore Wind Power Water System Zinc Ion Battery Hybrid Microgrid, OCEANS 2026 Sanya
+* 2026.06, <b>Competition</b>, DONG Haoxiang [S], LI Zetao [S], RUAN Yujie [T], Provicial Second Prize, 2026 Cross-Strait Mobile Application Innovation Competition
+
+* 2026.05, <b>Conference</b>, CHEN Zhuo [S], MEI Zhengyong [S], Research on Enhancing the Power Supply Resilience of Typhoon Monitoring System Based on Offshore Wind Power Water System Zinc Ion Battery Hybrid Microgrid, Oral Presentation, OCEANS 2026 Sanya
+
+* 2026.05, <b>Competition</b>, SHAO Jingzhou [S], SHI Yang [S], HUANG Yixuan [S], , Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
+
+* 2026.05, <b>Competition</b>, CHEN Chen [S], LI Zetao [S], DONG Haoxiang [S], , Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
 
 * 2026.05, <b>Competition</b>, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meriorious Winner, 2026 Mathematical Contest In Modeling
 
