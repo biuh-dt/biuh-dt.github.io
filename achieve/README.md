@@ -14,7 +14,7 @@ S: Student, T: Teacher
 
 * 2026.05, <b>Competition</b>, CHEN Chen [S], LI Zetao [S], DONG Haoxiang [S], RUAN Yujie [T], Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
 
-* 2026.05, <b>Competition</b>, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meriorious Winner, 2026 Mathematical Contest In Modeling
+* 2026.05, <b>Competition</b>, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meriorious Winner, 2026 Mathematical Contest In Modeling, MCM/ICM
 
 * 2026.03, <b>Paper</b>, ZHANG Feng [T], co-first & co-corresponding author, Single-cell ATAC-seq analysis of human embryoid bodies reveals crucial transcription factor networks involved in early germ layer specification, Cell & Bioscience
 
