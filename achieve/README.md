@@ -4,7 +4,9 @@ S: Student, T: Teacher
 
 ## 2025.07-2026.06
 
-* 2026.06, <b>Competition</b>, HONG Ziyi [S], QIN Qi [S], LI Chenhao [S], TIAN Zheming [S], CAI Ruilang [S], ZHANG Feng [T], University-level Excellence Award, 15th Challenge Cup
+* 2026.06, <b>Competition</b>, JIANG Jiang [S], MA Jiayi [S], DENG Haowei [S], LIU Jinmeng [S], YANG Wenyu [S], Dirk Klann [T], University-level Third Prize, 15th "Challenge Cup" China College Student Entrepreneurship Plan Competition
+
+* 2026.06, <b>Competition</b>, HONG Ziyi [S], QIN Qi [S], LI Chenhao [S], TIAN Zheming [S], CAI Ruilang [S], ZHANG Feng [T], University-level Excellence Award, 15th "Challenge Cup" China College Student Entrepreneurship Plan Competition
 
 * 2026.06, <b>Competition</b>, DONG Haoxiang [S], LI Zetao [S], RUAN Yujie [T], Provicial Second Prize, 2026 Cross-Strait Mobile Application Innovation Competition
 
