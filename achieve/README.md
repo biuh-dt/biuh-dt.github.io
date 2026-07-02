@@ -20,7 +20,7 @@
 
 * 2026.05, Competition, CHEN Chen [S], LI Zetao [S], DONG Haoxiang [S], LIU Dejang [T], Provincial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
 
-* 2026.05, Competition, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meriorious Winner, 2026 Mathematical Contest In Modeling, MCM/ICM
+* 2026.05, Competition, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meritorious Winner, 2026 Mathematical Contest In Modeling, MCM/ICM
 
 * 2026.04, Paper, Kamran Aziz [T], co-author, LASQ: A low-resource aspect-based sentiment quadruple extraction dataset, Journal of King Saud University Computer and Information Sciences
 
@@ -32,7 +32,7 @@
 
 * 2026.02, Patent & Certificate & Others, Kamran Aziz [T], No. 20 2026 100 674, A Federated Multi-Model Data Processing System for Heterogeneous Healthcare Environments, German Utility Model
 
-* 2026.01, Paper, Kamran Aziz [T], correspnding author, A hybrid machine learning approach for detecting DDoS attacks in software-defined networks, Scientific Reports
+* 2026.01, Paper, Kamran Aziz [T], corresponding author, A hybrid machine learning approach for detecting DDoS attacks in software-defined networks, Scientific Reports
 
 * 2026.01, Paper, ZHANG Feng [T], co-corresponding author, YAP-TEAD regulates the super-enhancer network to control early surface ectoderm commitment, Nucleic Acids Research 
 
