@@ -1,6 +1,8 @@
 # Academic Achievements
 
-S: Student, T: Teacher
+<b> S: Student, T: Teacher </b>
+
+<br>
 
 ## 2025.07-2026.06
 
