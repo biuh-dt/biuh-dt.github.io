@@ -17,6 +17,6 @@
 
 <br>
 
-<img src="img/AAW.png" alt="aaw" width="300" align="left">
+<img src="img/AAW.png" alt="aaw" width="600" align="left">
 
 
