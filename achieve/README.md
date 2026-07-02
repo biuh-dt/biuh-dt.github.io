@@ -1,4 +1,4 @@
-<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/7f73fac1-93cb-405d-a3e8-1631b6513581" /># Academic Achievements
+# Academic Achievements
 
 <b> S: Student, T: Teacher </b>
 
