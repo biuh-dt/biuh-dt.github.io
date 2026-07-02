@@ -3,6 +3,6 @@
 
 <br/>
 
-<img src="img/white.png" alt="white" width="100%" height="100" align="left">
+<img src="img/white.png" alt="white" width="100%" height="50" align="left">
 
 <br/>
