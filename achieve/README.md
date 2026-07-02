@@ -12,9 +12,9 @@ S: Student, T: Teacher
 
 * 2026.05, <b>Conference</b>, CHEN Zhuo [S], MEI Zhengyong [S], Abstract Acceptance & Oral Presentation, Research on Enhancing the Power Supply Resilience of Typhoon Monitoring System Based on Offshore Wind Power Water System Zinc Ion Battery Hybrid Microgrid, OCEANS 2026 Sanya
 
-* 2026.05, <b>Competition</b>, SHAO Jingzhou [S], SHI Yang [S], HUANG Yixuan [S], RUAN Yujie [T], Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
+* 2026.05, <b>Competition</b>, SHAO Jingzhou [S], SHI Yang [S], HUANG Yixuan [S], LIU Dejang [T], Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
 
-* 2026.05, <b>Competition</b>, CHEN Chen [S], LI Zetao [S], DONG Haoxiang [S], RUAN Yujie [T], Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
+* 2026.05, <b>Competition</b>, CHEN Chen [S], LI Zetao [S], DONG Haoxiang [S], LIU Dejang [T], Provicial Second Prize, the 19th Chinese Collegiate Computing Competition (4C)
 
 * 2026.05, <b>Competition</b>, QIAO Dengfeng [S], ZHU Yurun [S], HE Yi [S], ZHANG Feng [T], Meriorious Winner, 2026 Mathematical Contest In Modeling, MCM/ICM
 
