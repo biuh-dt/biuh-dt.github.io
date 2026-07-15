@@ -82,7 +82,7 @@ Further explanations：
 * Regarding academic expenses such as publications and conferences, we cannot guarantee full reimbursement. Support is limited and subject to open presentations, academic-related fee applications, and faculty committee decisions. Reimbursement rates can range from 0% to 100%, depending on available funding and case-by-case reviews.
 
 
-* In principle, for research papers and conferences where teachers are listed as first authors while students are not, the relevant expenses shall be covered by the faculty’s individual research funds rather than operational funds. Alternatively, dedicated funding may be applied for separately at the presidium meeting following review and approval by the Faculty Committee.
+* In principle, for research papers and conferences where teachers are listed as first authors while students are not, the relevant expenses shall be covered by the teacher’s individual research funds rather than operational funds. Alternatively, dedicated funding may be applied for separately at the presidium meeting following review and approval by the Faculty Committee.
 
 
 ### 3. Supervisor:
