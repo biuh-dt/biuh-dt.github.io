@@ -78,7 +78,9 @@ For academic activities you participate, please state your affiliation in accord
 
 ### 2. Expenses:
 
-Regarding academic expenses such as publications and conferences, we cannot guarantee full reimbursement. Students will be informed upfront that they may need to cover all related costs themselves. Support is limited and subject to open presentations, academic-related fee applications, and faculty committee decisions. Reimbursement rates can range from 0% to 100%, depending on available funding and case-by-case reviews.
+Regarding academic expenses such as publications and conferences, we cannot guarantee full reimbursement. Support is limited and subject to open presentations, academic-related fee applications, and faculty committee decisions. Reimbursement rates can range from 0% to 100%, depending on available funding and case-by-case reviews.
+
+#### Students should be informed upfront that they may need to cover all related costs themselves. 
 
 ### 3. Supervisor:
 
