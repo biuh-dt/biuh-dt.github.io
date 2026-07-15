@@ -14,7 +14,7 @@ Further explanations：
 
 For academic activities you participate, please state your affiliation in accordance with the format specified below: Digital Technologies, Sino-German Digital and Intelligent Industrial College, Hainan Bielefeld University of Applied Sciences, Xizhao Road No 1, Yangpu, Danzhou, Hainan, 578001, China | 电子信息科学与技术，中德数字智能产业学院，海南比勒费尔德应用科学大学，西照路1号，海南儋州洋浦，578001，中国. In principle, if DT is to cover the costs, the first author and first affiliation must be our department. We strongly encourage collaboration. The annual evaluation of students and faculty is not based solely on "first author and first affiliation." However, the use of the our operational funds must be more targeted and precise.
 
-### 3. Expenses:
+### 2. Expenses:
 
 Regarding academic expenses such as publications and conferences, we cannot guarantee full reimbursement. Students will be informed upfront that they may need to cover all related costs themselves. Support is limited and subject to open presentations, academic-related fee applications, and faculty committee decisions. Reimbursement rates can range from 0% to 100%, depending on available funding and case-by-case reviews.
 
