@@ -18,7 +18,7 @@ All workshops shall be organized in accordance with the unified standardized pro
 <br>
 
 ## 3. Student Notification Mechanism
-To facilitate unified student notification and management, three dedicated Moodle blocks were created by the Academic Affairs Office in June for workshop administration: DT Group – 2023 Cohort, DT Group – 2024 Cohort, and DT Group – 2025 Cohort. All faculty members and lab technicians are granted teacher permissions for these blocks, with full access to release official notifications. Organizers may publish workshop announcements directly via the corresponding Moodle block after finalizing workshop arrangements.
+To facilitate unified student notification and management, three dedicated Moodle blocks were created by the Academic Affairs Office. All faculty members and lab technicians are granted teacher permissions for these blocks, with full access to release official notifications. Organizers may publish workshop announcements directly via the corresponding Moodle block after finalizing workshop arrangements.
 
 <br>
 
