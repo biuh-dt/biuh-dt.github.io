@@ -38,7 +38,7 @@ Step 3. Receive a response
 
 * Leonid Smelov \| leonid.smelov@hibiuh.edu.cn \| Networking and IoT Solutions, Safety and Security \| PhD in Computer Science, formerly a Senior Lecturer at the School of Computing, Electronics and Mathematics, Coventry University, UK
 
-* LIU Dejang \| dejang.liu@hibiuh.edu.cn \| Databases, Data Analytics & Machine Learning, PowerBI (interest class) \| PhD in Educational Data Analysis from Northern Illinois University (USA); former Teacher of Computer and Information Science at College of DuPage (USA); visiting professor at multiple universities in Myanmar and Vietnam 
+* LIU Dejang \| dejang.liu@hibiuh.edu.cn \| Databases, Data Analytics & Machine Learning, PowerBI (workshop) \| PhD in Educational Data Analysis from Northern Illinois University (USA); former Teacher of Computer and Information Science at College of DuPage (USA); visiting professor at multiple universities in Myanmar and Vietnam 
 
 * LI Yue \| yue.li@hibiuh.edu.cn \| Lab Tech & Coordinate \| Bachelor of Software Engineering from University of South Australia; former research experience at Griffith University (Australia)
 
@@ -46,7 +46,7 @@ Step 3. Receive a response
 
 * RUAN Yujie \| yujie.ruan@hibiuh.edu.cn \| Web Technologies, Data Mining, Networking and IoT Solutions \| Master‘s degree in Data Science from Durham University, UK. Research interests include intelligent detection of road defects, news text mining, and comparative studies
 
-* ZHANG Feng \| feng.zhang@hibiuh.edu.cn \| Programming 1, Data Mininig, Intro to Scientific Work, Sequencing Data Analysis (interest class) \| PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at SJTU School of Medicine; visiting scholar at CCHMC (USA)
+* ZHANG Feng \| feng.zhang@hibiuh.edu.cn \| Programming 1, Data Mininig, Intro to Scientific Work, Sequencing Data Analysis (workshop) \| PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at SJTU School of Medicine; visiting scholar at CCHMC (USA)
 
 
 
