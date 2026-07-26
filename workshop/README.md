@@ -39,7 +39,7 @@ All official faculty members and lab technicians are eligible to design and deli
 <br>
 
 ## 7. Assessment and Evaluation Mechanism
-Workshop organization and delivery are key assessment components for annual staff performance evaluations. A standardized workshop effectiveness evaluation system will be officially launched in the future. The initial evaluation will adopt astudent feedback questionnaire form to assess workshop quality and practical effectiveness.
+Workshop organization and delivery are key assessment components for annual staff performance evaluations. A standardized workshop effectiveness evaluation system will be officially launched in the future. The initial evaluation will adopt a student feedback questionnaire form to assess workshop quality and practical effectiveness.
 
 <br>
 
