@@ -3,7 +3,7 @@
 <br>
 
 ## 1. Overview of Past Workshops
-Previous DT student workshops were delivered by faculty and lab technical staff with differentiated themes: Prof. LIU offered the Power BI Data Analysis workshop, the author delivered the Biomedical Data Analysis workshop, and Li Yue and He Pu co-hosted the Lab Equipment Introduction workshop.
+Previous DT student workshops were delivered by faculty and lab technical staff with differentiated themes: Prof LIU Dejang offered the Power BI Data Analysis workshop, Prof ZHANG Feng delivered the Biomedical Data Analysis workshop, and Mr LI Yue and Mr HE Pu co-hosted the Lab Equipment Introduction workshop.
 
 <br>
 
