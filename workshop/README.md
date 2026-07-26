@@ -27,7 +27,7 @@ To avoid thematic duplication within the same semester, all confirmed workshop t
 
 <br>
 
-## 5. Participation Regulations
+## 5. Basic Regulations
 1. Workshop participation is completely voluntary. Mandatory attendance is prohibited, and only students with learning intentions may participate.
 2. Workshops are open to all DT students. Students from other majors are allowed to attend voluntarily, but no targeted external publicity or notification will be arranged for non-DT students.
 3. Workshops are eligible for lab equipment usage, but regular courses take precedence over workshops in terms of both equipment allocation and time arrangement.
@@ -37,10 +37,6 @@ To avoid thematic duplication within the same semester, all confirmed workshop t
 ## 6. Eligibility for Workshop Organizers
 All official faculty members and lab technicians are eligible to design and deliver workshops for DT students. In addition, the department will arrange invited lectures from the Company Contact Department and other administrative departments to deliver themed workshops with diverse and practical content in the future.
 
-<br>
-
-## 7. Assessment and Evaluation Mechanism
-Workshop organization and delivery are key assessment components for annual staff performance evaluations. A standardized workshop effectiveness evaluation system will be officially launched in the future. The initial evaluation will adopt a student feedback questionnaire form to assess workshop quality and practical effectiveness.
 
 <br>
 
