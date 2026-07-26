@@ -90,3 +90,16 @@ Further explanations：
 * As a DT faculty member, you can provide academic guidance to students from all majors at BiUH. The corresponding author is theoretically the most important role. They should not be seen as a “passenger” but as a “leader”, and therefore bear primary responsibility for quality, process, and cost.
 
 
+<br><br><br><br><br>
+
+## Update: 2026.07.26
+
+### Equipment Application and Procurement Rules
+
+We now have formulated two unified schemes for equipment application and procurement to standardize relevant work, with specific regulations as follows:
+
+1. Semesterly Equipment Renewal: All renewed equipment must be corresponding to at least one faculty-led regular course (workshop-exclusive equipment is not applicable to this scheme). No individual equipment application is required. Applicants shall cooperate with faculty members to jointly complete and submit a formal presidium proposal for equipment renewal.
+
+2. Equipment for Non-regular Course Needs: Any equipment demand beyond the scope of regular course teaching shall, in principle, be covered by faculty members’ independent research funding. This regulation is currently mandatory with no exceptional cases.
+
+<br><br><br><br><br>
