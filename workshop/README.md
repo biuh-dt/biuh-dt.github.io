@@ -11,7 +11,7 @@ Previous DT student workshops were delivered by faculty and lab technical staff 
 All workshops shall be organized in accordance with the unified standardized procedure below:
 
 1. Student demand collection: Release workshop activity notices and distribute questionnaires to collect students’ participation intentions and confirm available time slots for participants.
-2. Information submission: Submit the statistics of interested students and the proposed workshop time to Ms. TANG Tongyan.
+2. Information submission: Submit the statistics of interested students and the proposed workshop time to Ms. TANG Tongyan: [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn).
 3. Venue reservation: Ms. TANG Tongyan will be responsible for reserving designated classrooms or laboratory venues for the workshop.
 4. Workshop implementation: Officially launch and conduct the arranged workshop as scheduled.
 
@@ -23,7 +23,7 @@ To facilitate unified student notification and management, three dedicated Moodl
 <br>
 
 ## 4. Workshop Theme Management Rules
-To avoid thematic duplication within the same semester, all confirmed workshop themes must be announced and registered with the Faculty Committee. In principle, any workshop can be held on the premise of no thematic overlap in the current semester. Workshop content does not need to avoid overlap with regular course curricula, as workshops are independent non-compulsory activities.
+To avoid thematic duplication within the same semester, all confirmed workshop themes must be announced (by the organizer) in the Faculty Committee Chat Group (Teams). In principle, any workshop can be held on the premise of no thematic overlap in the current semester. Workshop content does not need to avoid overlap with regular course curricula, as workshops are independent non-compulsory activities.
 
 <br>
 
