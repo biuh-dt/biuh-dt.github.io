@@ -1,4 +1,4 @@
-# Organization of DT Student Workshops
+# Organization of Student Workshops
 
 <br>
 
