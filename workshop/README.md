@@ -30,6 +30,7 @@ To avoid thematic duplication within the same semester, all confirmed workshop t
 ## 5. Participation Regulations
 1. Workshop participation is completely voluntary. Mandatory attendance is prohibited, and only students with learning intentions may participate.
 2. Workshops are open to all DT students. Students from other majors are allowed to attend voluntarily, but no targeted external publicity or notification will be arranged for non-DT students.
+3. Workshops are eligible for lab equipment usage, but regular courses take precedence over workshops in terms of both equipment allocation and time arrangement.
 
 <br>
 
