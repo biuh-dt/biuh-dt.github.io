@@ -16,7 +16,6 @@ Step 2. First-round check: Professor Assistant will review the information, and 
 <b> ★ Step 3. A PUBLIC PRESENTATION & DEFENCE (online or offline) will be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
 
     Update: 2026.10.09: For any presentation involving “prediction" (e.g., machine learning), presenters must clearly elaborate on 3 core points.
-    
     (1) fully disclose the origin of training and test datasets (raw data), specify the exact input and output formats and their data structures, and explicitly describe any data preprocessing steps including data cleaning, outlier removal, or other data operations.
     (2) explain how the research addresses overfitting, covering the adopted anti-overfitting strategies and the rationale behind them.
     (3) explain the real-world practical value of the work. For simulation-based studies, presenters must demonstrate that the method does not rely on simulator-specific tricks or over-exploit built-in simulator mechanisms, and provide evidence to prove the research is transferable and meaningful in real-world deployment scenarios.
