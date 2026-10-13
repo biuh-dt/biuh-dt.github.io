@@ -53,6 +53,7 @@ My name is {Your Name}. Recently I have finished a {Academic Work} related to {S
 3. Website link and Screenshot of the conference official website
 4. Website link and Screenshot of the fee information on the conference website
 5. (Non-conference) All possible supporting materials for the academic activity.
+6. Must: (update: 2026.10.12) Peer review comments and the response letter. Alternatively, the supervisor can confirm that the paper has gone through peer review (even if the supervisor reviewed it personally).
 
 <br>
 
