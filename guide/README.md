@@ -36,8 +36,6 @@ Step 3. Receive a response
 
 * Kamran Aziz \| kamran.aziz@hibiuh.edu.cn \| Speech and Image Recognition, Assistance Systems \| PhD in Cyberspace Security from Wuhan University; research areas include machine learning, natural language processing, and cybersecurity
 
-* Leonid Smelov \| leonid.smelov@hibiuh.edu.cn \| Networking and IoT Solutions, Safety and Security \| PhD in Computer Science, formerly a Senior Lecturer at the School of Computing, Electronics and Mathematics, Coventry University, UK
-
 * LIU Dejang \| dejang.liu@hibiuh.edu.cn \| Databases, Data Analytics & Machine Learning, PowerBI (workshop) \| PhD in Educational Data Analysis from Northern Illinois University (USA); former Teacher of Computer and Information Science at College of DuPage (USA); visiting professor at multiple universities in Myanmar and Vietnam 
 
 * LI Yue \| yue.li@hibiuh.edu.cn \| Lab Tech & Coordinate \| Bachelor of Software Engineering from University of South Australia; former research experience at Griffith University (Australia)
