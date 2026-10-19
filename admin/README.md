@@ -6,6 +6,7 @@ Digital Technologies, 2026.10.15
 All matters must be planned in advance and submitted via email. Each request email must clearly state the applicant, matter, and time, be sent to the DT department mailbox, and be cc’d to Prof. ZHANG Feng (feng.zhang@hibiuh.edu.cn), Late requests will be reviewed case by case and approval is not guaranteed.
 
 DT Department Email:  dt@hibiuh.edu.cn
+
 Administrative Coordinator:  tongyan.tang@hibiuh.edu.cn
 
 <br>
