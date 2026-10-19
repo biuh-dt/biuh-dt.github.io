@@ -19,7 +19,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 <br>
 
-## 1. Computer Labs — Mr PAN
+## 1. Computer Labs — Mr PAN Qunyi
 
 1. **Before the semester** — include the lab sessions in the semester schedule.
 2. **During the semester** — email **Mr PAN** with the students involved, software required, and the requested date & time.
@@ -29,7 +29,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 <br>
 
-## 2. Teaching Labs — Mr HE
+## 2. Teaching Labs — Mr HE Pu
 
 1. **Per the schedule** — attend as per the schedule; no extra action needed.
 2. **Change to the schedule** (room / time / cancel / extra session) — email **Mr HE** as early as possible.
@@ -40,7 +40,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 <br>
 
-## 3. Phase Test — Mr PAN
+## 3. Phase Test — Mr PAN Qunyi
 
 1. The **lecturer** sends test materials and scope to the Lab Tech.
 2. The **Lab Tech** generates exam questions with AI.
@@ -52,7 +52,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 <br>
 
-## 4. Equipment Borrowing — Mr HE
+## 4. Equipment Borrowing — Mr HE Pu
 
 1. Email **Mr HE** at least 3 working days ahead — items, purpose, and pickup/return dates.
 2. If available, **pick it up and sign the equipment log**; if not, ask Mr HE for alternatives.
@@ -61,16 +61,24 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 <br>
 
-## 5. Lab Server & Lab Activities — Mr VIEGAS
+## 5. Lab Server & Lab Activities — Mr Guilherme VIEGAS
 
 1. Email **Mr VIEGAS** at least 10 working days ahead — server (GPU server) access application, activity plan, users/audience, and date.
-3. Mr VIEGAS arrange server account, books rooms and equipment and sets the schedule.
+2. Mr VIEGAS arranges server account, books rooms and equipment and sets the schedule.
 3. [for activities] Have all posters and announcements reviewed by Mr VIEGAS first.
 4. The activity runs as planned.
 
 <br>
 
-## 6. Urgent Issues — Real-time Response
+## 6. Regular Course Support - Mr LI Yue
+
+1. Email **Mr LI Yue** at least 5 working days ahead — content, date, time.
+2. Mr Li coordinates communications between available lab techs and instructors.
+3. Lab tech support for the regular course
+
+<br>
+
+## 7. Urgent Issues — Real-time Response
 
 Booking and scheduling requests are always handled **by email** (see above). But if a problem comes up **during a session** — equipment failure, software issue, login problem, room access — contact the responsible Lab Tech directly by **Teams call** for an immediate response:
 
