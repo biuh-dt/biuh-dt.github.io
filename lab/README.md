@@ -63,7 +63,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 ## 5. Lab Server & Lab Activities — Mr VIEGAS
 
-1. Email **Mr VIEGAS** at least 10 working days ahead — server access application, activity plan, users/audience, and date.
+1. Email **Mr VIEGAS** at least 10 working days ahead — server (GPU server) access application, activity plan, users/audience, and date.
 3. Mr VIEGAS arrange server account, books rooms and equipment and sets the schedule.
 3. [for activities] Have all posters and announcements reviewed by Mr VIEGAS first.
 4. The activity runs as planned.
@@ -79,6 +79,7 @@ Booking and scheduling requests are always handled **by email** (see above). But
 | Computer Lab issues (software, login, hardware, network) | **PAN Qunyi** |
 | Teaching Lab issues (equipment, safety, room access) | **HE Pu** |
 | Phase Test issues (exam setup, Exam Browser, exam data) | **PAN Qunyi** |
+| Lab Server issues (access, server failure) | **Guilherme VIEGAS** |
 | Corresponding Lab Tech unavailable | **LI Yue** → then **Prof. ZHANG Feng** |
 
 Teams contacts can be found by searching the Lab Tech's name or email address in Teams.
