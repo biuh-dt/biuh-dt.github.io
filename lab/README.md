@@ -6,7 +6,7 @@ Digital Technologies, 2026.10.15
 Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng** (feng.zhang@hibiuh.edu.cn).
 *Sections 1–5: planned requests — by email. Section 6: urgent issues during a session — by Teams call.*
 
-</br></br>
+<br>
 
 ## Team & Contacts
 
@@ -17,7 +17,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 | **PAN Qunyi** | Computer Labs management; Phase Test | qunyi.pan@hibiuh.edu.cn |
 | **Guilherme VIEGAS** | Lab activity organization & promotion | guilherme.viegas@hibiuh.edu.cn |
 
-</br></br>
+<br>
 
 ## 1. Computer Labs — Mr PAN
 
@@ -27,7 +27,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 4. If all self-managed labs are occupied, **set up the spare lab (Room C315)**.
 5. If the spare lab is also full, **borrow a CS Dept lab (Room B203 / B301)** — considered only as a last resort.
 
-</br></br>
+<br>
 
 ## 2. Teaching Labs — Mr HE
 
@@ -38,7 +38,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 5. Run the session — follow the safety rules.
 6. Afterwards, tidy the lab and report any damage the same day.
 
-</br></br>
+<br>
 
 ## 3. Phase Test — Mr PAN
 
@@ -50,7 +50,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 6. The **lecturer and Lab Tech jointly invigilate** — students use the Exam Browser and fill in the Exam Room Record.
 7. **Mr PAN** anonymizes the data, analyzes the results and issues the report.
 
-</br></br>
+<br>
 
 ## 4. Equipment Borrowing — Mr HE
 
@@ -59,7 +59,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 3. Use the equipment — handle it responsibly.
 4. **Return it on time and sign off**; need it longer? email before the due date.
 
-</br></br>
+<br>
 
 ## 5. Lab Server & Lab Activities — Mr VIEGAS
 
@@ -68,7 +68,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 3. [for activities] Have all posters and announcements reviewed by Mr VIEGAS first.
 4. The activity runs as planned.
 
-</br></br>
+<br>
 
 ## 6. Urgent Issues — Real-time Response
 
@@ -85,6 +85,6 @@ Teams contacts can be found by searching the Lab Tech's name or email address in
 
 ---
 
-</br></br>
+<br>
 
 *General inquiries: LI Yue (yue.li@hibiuh.edu.cn). Late requests are considered but not guaranteed.*
