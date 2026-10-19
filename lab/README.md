@@ -61,11 +61,11 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 </br></br>
 
-## 5. Lab Activities & Promotion — Mr VIEGAS
+## 5. Lab Server & Lab Activities — Mr VIEGAS
 
-1. Email **Mr VIEGAS** at least 10 working days ahead — activity plan, audience, and date.
-2. Mr VIEGAS books rooms and equipment and sets the schedule.
-3. Have all posters and announcements reviewed by Mr VIEGAS first.
+1. Email **Mr VIEGAS** at least 10 working days ahead — server access application, activity plan, users/audience, and date.
+3. Mr VIEGAS arrange server account, books rooms and equipment and sets the schedule.
+3. [for activities] Have all posters and announcements reviewed by Mr VIEGAS first.
 4. The activity runs as planned.
 
 </br></br>
