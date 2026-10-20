@@ -11,6 +11,12 @@ Administrative Coordinator:  tongyan.tang@hibiuh.edu.cn
 
 <br>
 
+## Phase Test Procedure (Invigilation Process)
+
+[https://www.biuh-dt.com/exam/](https://www.biuh-dt.com/exam/)
+
+<br>
+
 ## Business Trip Reimbursement
 1. All business trip standards and reimbursement requirements shall be strictly implemented in accordance with the official BIUH travel regulations.
 2. For travel-related reimbursement, valid invoices must be accompanied by corresponding travel itineraries.
