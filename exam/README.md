@@ -4,13 +4,13 @@ Digital Technologies, 2026.10.20
 
 <br>
 
-**Step 1. Students log in on student workstations. Some students need their mobile phones to complete login.** 
+**Step 1. Students log in on student computers. Some students need their mobile phones to complete login.** 
 
 学生在学生机登录账号，部分学生需要手机协助登录。 
 
 <br>
 
-**Step 2. Ensure every student opens the secure browser. Individual confirmation is required.**
+**Step 2. Ensure every student opens the safe browser. Individual confirmation is required.**
 
 确保每位学生打开安全浏览器。需要逐一确认。
 
