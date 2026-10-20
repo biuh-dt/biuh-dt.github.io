@@ -40,9 +40,9 @@ Digital Technologies, 2026.10.20
 
 <br>
 
-**Step 7. Late students cannot start the exam immediately. A batch of late students will be allowed to start 30 minutes after the official exam begins. Anyone arriving more than 30 minutes late will receive a zero.**
+**Step 7. Late students are not allowed to enter the exam room immediately. They should go to other classrooms or open areas on the 3rd floor of Building C and be admitted as a group 30 minutes after the exam starts. Late students cannot start the exam immediately. A batch of late students will be allowed to start 30 minutes after the official exam begins. Anyone arriving more than 30 minutes late will receive a zero.**
 
-晚到的同学不随时开始，而是开考30分钟后开始一批。超过30分钟没到的记0分。
+晚到的不允许直接进入考场，先去C栋3楼其他教室或者开放区，30分钟后统一入场。晚到的同学不随时开始，而是开考30分钟后开始一批。超过30分钟没到的记0分。
 
 <br>
 
