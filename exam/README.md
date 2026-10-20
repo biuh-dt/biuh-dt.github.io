@@ -1,8 +1,6 @@
 # Phase Test Procedure 
 
-### For closed-book test
-
-Digital Technologies, 2026.10.20
+For closed-book test, Digital Technologies, 2026.10.20
 
 <br>
 
