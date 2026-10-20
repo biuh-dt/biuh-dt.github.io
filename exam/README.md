@@ -1,3 +1,7 @@
+### Digital Technologies, 2026.10.20
+
+<br>
+
 Step 1. Students log in on student workstations. Some students need their mobile phones to complete login.
 
 学生在学生机登录账号，部分学生需要手机协助登录。 
