@@ -28,9 +28,9 @@ For closed-book test, Digital Technologies, 2026.10.20
 
 <br>
 
-**Step 4. Collect mobile phones and electronic devices (Watches must be submitted. The time is displayed on the computers. No watches are required.) using the trolley (C315). We may not achieve full collection, but this step establishes the rule for cheating enforcement: any student found using an electronic device afterwards will receive a zero for the exam.**
+**Step 4. Collect mobile phones and electronic devices (Watches must be collected. The time is displayed on the computers. No watches are required.) using the trolley (C315). We may not achieve full collection, but this step establishes the rule for cheating enforcement: any student found using an electronic device afterwards will receive a zero for the exam.**
 
-使用小推车(C315)收取手机及电子设备(手表必须提交，电脑上显示时间，不需要使用手表)。虽然无法保证全部收齐，但该步骤作为作弊认定依据：后续一经发现使用电子设备，本次考试记 0 分。 
+使用小推车(C315)收取手机及电子设备(手表必须上交，电脑上显示时间，不需要使用手表)。虽然无法保证全部收齐，但该步骤作为作弊认定依据：后续一经发现使用电子设备，本次考试记 0 分。 
 
 <br>
 
