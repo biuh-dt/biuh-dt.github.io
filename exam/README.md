@@ -4,6 +4,12 @@ Digital Technologies, 2026.10.20
 
 <br>
 
+**All instructors should announce this procedure during the class prior to the phase test.**
+
+所有老师需要在考试前一次课的时候公告一次本流程.
+
+<br>
+
 **Step 1. Students log in on student computers. Some students need their mobile phones to complete login.** 
 
 学生在学生机登录账号，部分学生需要手机协助登录。 
