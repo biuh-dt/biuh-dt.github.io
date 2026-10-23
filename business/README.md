@@ -58,9 +58,9 @@ Step 5. Final Decision: Approved or Rejected
 
 <b> Demo &nbsp;|&nbsp; 样例: </b>
 
-Name: Li Ming. My business is a campus second-hand book sharing and recycling service for BiUH students. Internal participants: Li Ming (student), Wang Yu (student), Zhang San (teacher). External participants: Li Hua (family member), Zhao Qian (non-family member). Resources requested from BiUH: a temporary booth space, permission for on-campus promotion. Business stage: No company established or partner contacted.
+Name: Li Ming (DT2025). My business is a campus second-hand book sharing and recycling service for BiUH students. Internal participants: Li Ming (student), Wang Yu (student), Zhang San (teacher). External participants: Li Hua (family member), Zhao Qian (non-family member). Resources requested from BiUH: a temporary booth space, permission for on-campus promotion. Business stage: No company established or partner contacted.
 
-姓名：李明。我的项目是面向比勒费尔德海南应用科学大学学生的校园二手图书共享回收服务。校内参与者：李明（学生）、王宇（学生）、张三（教师）。校外参与者：李华（家庭成员）、赵倩（非家庭成员）。向 BiUH 申请资源：临时摊位场地、校内宣传许可。商业阶段：还未成立公司或联系合作公司。
+姓名：李明（电子信息2025）。我的项目是面向比勒费尔德海南应用科学大学学生的校园二手图书共享回收服务。校内参与者：李明（学生）、王宇（学生）、张三（教师）。校外参与者：李华（家庭成员）、赵倩（非家庭成员）。向 BiUH 申请资源：临时摊位场地、校内宣传许可。商业阶段：还未成立公司或联系合作公司。
 
 <br>
 <br>
