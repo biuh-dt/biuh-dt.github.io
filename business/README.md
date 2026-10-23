@@ -13,7 +13,7 @@ Trial Version, Digital Technologies, 2026.10.23
 
 <b> ★ Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
-★ 第 1 步：将 “必填信息”（一段文字）连同 “佐证材料”（打包为 ZIP 或 RAR 压缩包）发送至邮箱 [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
+★ 第 1 步：将 “必填信息”（一段文字）连同 “佐证材料”（打包为 ZIP 或 RAR 压缩包）发送至邮箱 [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn)
 
 <br>
 
