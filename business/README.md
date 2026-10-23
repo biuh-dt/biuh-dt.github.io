@@ -43,6 +43,7 @@ Step 5. Final Decision: Approved or Rejected
 5. Business Stage (No company established or partner contacted, Founded own company, Affiliated with an established external company) | 商业阶段（还未成立公司或联系合作公司，已自己创立公司，依托外部成熟公司）
 
 <br>
+<br>
 
 <b> Demo ｜ 样例: </b>
 
