@@ -9,7 +9,7 @@ Trial Version, Digital Technologies, 2026.10.23
 <br>
 <br>
 
-## I. Workflow | 工作流程:
+## I. Workflow &nbsp;|&nbsp; 工作流程:
 
 <b> ★ Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
@@ -44,7 +44,7 @@ Step 5. Final Decision: Approved or Rejected
 <br>
 
 
-## II. Required Information (one paragraph) (English or English & Chinese) | 必填信息（一段话）（英文 或者 英文+中文）:
+## II. Required Information (one paragraph) (English or English & Chinese) &nbsp;|&nbsp; 必填信息（一段话）（英文 或者 英文+中文）:
 
 1. | Your Name & brief introduction of the business | 你的姓名，简要的一句话介绍你的商业活动 
 2. | Internal participants list (please indicate whether they are students or teachers) | 校内参与者名单（注明每一位老师还是学生）
@@ -66,7 +66,7 @@ Name: Li Ming. My business is a campus second-hand book sharing and recycling se
 <br>
 <br>
 
-## III. Supporting Documents (one ZIP or RAR file) | 佐证材料（一个ZIP或者RAR压缩文件）: 
+## III. Supporting Documents (one ZIP or RAR file) &nbsp;|&nbsp; 佐证材料（一个ZIP或者RAR压缩文件）: 
 
 <br>
 
