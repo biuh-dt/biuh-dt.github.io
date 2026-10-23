@@ -70,7 +70,7 @@ Name: Li Ming. My business is a campus second-hand book sharing and recycling se
 
 <br>
 
-1. | Presentation slides ｜ 路演 PPT
+1. | Presentation slides | 路演 PPT
 2. | Business plan (no template provided; prepare a brief plan) | 商业计划书（没有样例，请准备一个简单的计划）
 3. | Team information sheet (must include phone number of each member; contact information will only be used for this review and will not be distributed externally.) | 团队成员信息(必须包含每一个成员的手机号; 联系方式仅本次评审使用，不对外分发)
 
