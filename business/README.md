@@ -56,7 +56,7 @@ Step 5. Final Decision: Approved or Rejected
 <br>
 <br>
 
-<b> Demo ｜ 样例: </b>
+<b> Demo &nbsp;|&nbsp; 样例: </b>
 
 Name: Li Ming. My business is a campus second-hand book sharing and recycling service for BiUH students. Internal participants: Li Ming (student), Wang Yu (student), Zhang San (teacher). External participants: Li Hua (family member), Zhao Qian (non-family member). Resources requested from BiUH: a temporary booth space, permission for on-campus promotion. Business stage: No company established or partner contacted.
 
