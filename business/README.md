@@ -9,7 +9,7 @@ Trial Version, Digital Technologies, 2026.10.23
 <br>
 <br>
 
-## I. Workflow:
+## I. Workflow | 工作流程:
 
 <b> ★ Step 1. Send the “Required Information” (one paragraph) together with “Supporting Documents” (in a ZIP or RAR file) to [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
