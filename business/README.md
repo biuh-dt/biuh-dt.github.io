@@ -31,7 +31,7 @@ Step 2. First-round check: Professor Assistant will review the information, and 
 
 Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group.
 
-第 4 步：二轮复核：助教将 “必填信息”（一段文字）发到系务委员会工作群。
+第 4 步：二轮复核：专业助理将 “必填信息”（一段文字）发到系务委员会工作群。
 
 <br>
 
