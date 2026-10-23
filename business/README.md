@@ -7,6 +7,7 @@
 Trial Version, Digital Technologies, 2026.10.23
 
 <br>
+<br>
 
 ## I. Workflow:
 
@@ -14,22 +15,31 @@ Trial Version, Digital Technologies, 2026.10.23
 
 ★ 第 1 步：将 “必填信息”（一段文字）连同 “佐证材料”（打包为 ZIP 或 RAR 压缩包）发送至邮箱 [dt@hibiuh.edu.cn](mailto:dt@hibiuh.edu.cn) </b>
 
+<br>
+
 Step 2. First-round check: Professor Assistant will review the information, and discuss with the Program Lead. (Approved or Rejected)
 
 第 2 步：首轮审核：专业助理核查材料信息，并与专业负责人商议。（通过 / 驳回）
+
+<br>
 
 <b> ★ Step 3. A PUBLIC PRESENTATION & DEFENCE (online or offline) will be arranged by the Professor Assistant and Program Lead, who will also notify students and faculty members to attend. </b>
 
 ★ 第 3 步：由专业助理和专业负责人安排公开答辩（线上或线下形式），同时通知师生到场参与。
 
+<br>
+
 Step 4. Second-round check: Professor Assistant share the “Required Information”(one paragraph) in Faculty Committee Chat Group.
 
 第 4 步：二轮复核：助教将 “必填信息”（一段文字）发到系务委员会工作群。
+
+<br>
 
 Step 5. Final Decision: Approved or Rejected
 
 第 5 步：最终结果：通过 / 驳回
 
+<br>
 <br>
 <br>
 
@@ -44,6 +54,7 @@ Step 5. Final Decision: Approved or Rejected
 
 <br>
 <br>
+<br>
 
 <b> Demo ｜ 样例: </b>
 
@@ -51,7 +62,7 @@ Name: Li Ming. My business is a campus second-hand book sharing and recycling se
 
 姓名：李明。我的项目是面向比勒费尔德海南应用科学大学学生的校园二手图书共享回收服务。校内参与者：李明（学生）、王宇（学生）、张三（教师）。校外参与者：李华（家庭成员）、赵倩（非家庭成员）。向 BiUH 申请资源：临时摊位场地、校内宣传许可。商业阶段：还未成立公司或联系合作公司。
 
-
+<br>
 <br>
 <br>
 
