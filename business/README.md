@@ -46,11 +46,11 @@ Step 5. Final Decision: Approved or Rejected
 
 ## II. Required Information (one paragraph) (English or English & Chinese) &nbsp;|&nbsp; 必填信息（一段话）（英文 或者 英文+中文）:
 
-1. | Your Name & brief introduction of the business | 你的姓名，简要的一句话介绍你的商业活动 
-2. | Internal participants list (please indicate whether they are students or teachers) | 校内参与者名单（注明每一位老师还是学生）
-3. | External participants list (please indicate whether they are your family members) | 校外参与者名单（注明每一位是否为你的家庭成员）
-4. | Required Resource from BiUH (e.g., place, permission, funding, supervisor, etc.) | 从学校需求的资源（空间、许可、资助、指导老师等）
-5. | Business Stage (No company established or partner contacted, Founded own company, Affiliated with an established external company) | 商业阶段（还未成立公司或联系合作公司，已自己创立公司，依托外部成熟公司）
+1 | Your Name & brief introduction of the business | 你的姓名，简要的一句话介绍你的商业活动 
+2 | Internal participants list (please indicate whether they are students or teachers) | 校内参与者名单（注明每一位老师还是学生）
+3 | External participants list (please indicate whether they are your family members) | 校外参与者名单（注明每一位是否为你的家庭成员）
+4 | Required Resource from BiUH (e.g., place, permission, funding, supervisor, etc.) | 从学校需求的资源（空间、许可、资助、指导老师等）
+5 | Business Stage (No company established or partner contacted, Founded own company, Affiliated with an established external company) | 商业阶段（还未成立公司或联系合作公司，已自己创立公司，依托外部成熟公司）
 
 <br>
 <br>
@@ -70,9 +70,9 @@ Name: Li Ming. My business is a campus second-hand book sharing and recycling se
 
 <br>
 
-1. | Presentation slides | 路演 PPT
-2. | Business plan (no template provided; prepare a brief plan) | 商业计划书（没有样例，请准备一个简单的计划）
-3. | Team information sheet (must include phone number of each member; contact information will only be used for this review and will not be distributed externally.) | 团队成员信息(必须包含每一个成员的手机号; 联系方式仅本次评审使用，不对外分发)
+1 | Presentation slides | 路演 PPT
+2 | Business plan (no template provided; prepare a brief plan) | 商业计划书（没有样例，请准备一个简单的计划）
+3 | Team information sheet (must include phone number of each member; contact information will only be used for this review and will not be distributed externally.) | 团队成员信息(必须包含每一个成员的手机号; 联系方式仅本次评审使用，不对外分发)
 
 <br>
 
