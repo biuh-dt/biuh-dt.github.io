@@ -17,6 +17,17 @@ Administrative Coordinator:  tongyan.tang@hibiuh.edu.cn
 
 <br>
 
+
+## Reporting Process for Irregular Course Time Adjustments
+
+Update: 2026.10.27
+
+1. When identifying any unauthorized/irregular course date/time change, faculty, lab techs or students shall send an email directly to feng.zhang@hibiuh.edu.cn and dt@hibiuh.edu.cn.
+2. The Program Lead will discuss the details with the instructor concerned.
+3. The instructor concerned shall email AA (aao@hibiuh.edu.cn), with the Program Lead (feng.zhang@hibiuh.edu.cn & dt@hibiuh.edu.cn)  in CC, to explain the full situation.
+
+<>
+
 ## Business Trip Reimbursement
 1. All business trip standards and reimbursement requirements shall be strictly implemented in accordance with the official BIUH travel regulations.
 2. For travel-related reimbursement, valid invoices must be accompanied by corresponding travel itineraries.
