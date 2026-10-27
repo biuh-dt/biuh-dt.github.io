@@ -26,7 +26,7 @@ Update: 2026.10.27
 2. The Program Lead will discuss the details with the instructor concerned.
 3. The instructor concerned shall email AA (aao@hibiuh.edu.cn), with the Program Lead (feng.zhang@hibiuh.edu.cn & dt@hibiuh.edu.cn)  in CC, to explain the full situation.
 
-<>
+<br>
 
 ## Business Trip Reimbursement
 1. All business trip standards and reimbursement requirements shall be strictly implemented in accordance with the official BIUH travel regulations.
