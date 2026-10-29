@@ -21,11 +21,9 @@ Administrative Coordinator:  tongyan.tang@hibiuh.edu.cn
 
 Update: 2026.10.29
 
-For DT students and working members (full-time + part-time):
-On campus, the use of AI to infringe upon personal likeness, copyright IP and other rights is prohibited. It is forbidden to use AI to generate bloody, violent, pornographic content, or other material deliberately intended to cause panic or psychological distress. Any violation will be reported to Student Affairs and the IT Department. Sanctions, determined based on the severity of the offence, may include suspension of campus device access and restriction from the campus network.
+For DT students and working members (full-time + part-time): On campus, the use of AI to infringe upon personal likeness, copyright IP and other rights is prohibited. It is forbidden to use AI to generate bloody, violent, pornographic content, or other material deliberately intended to cause panic or psychological distress. Any violation will be reported to Student Affairs and the IT Department. Sanctions, determined based on the severity of the offence, may include suspension of campus device access and restriction from the campus network.
  
-DT 专业的学生及员工（全职与兼职），
-校园内，禁止借助 AI 对于个人形象、版权 IP 等进行侵权的行为。禁止使用 AI 生成血腥、暴力、色情及其他刻意制造恐慌、心理不适的相关内容。如有发现，将报送 student affairs 与 IT 部门，根据情节严重程度，将导致校园设备停用、校园网络禁止访问等惩罚性措施。
+DT 专业的学生及员工（全职与兼职）：校园内，禁止借助 AI 对于个人形象、版权 IP 等进行侵权的行为。禁止使用 AI 生成血腥、暴力、色情及其他刻意制造恐慌、心理不适的相关内容。如有发现，将报送 student affairs 与 IT 部门，根据情节严重程度，将导致校园设备停用、校园网络禁止访问等惩罚性措施。
 
 If you spot any such violation, please email dt@hibiuh.edu.cn and cc feng.zhang@hibiuh.edu.cn
 
