@@ -10,7 +10,10 @@ DT Department Email:  dt@hibiuh.edu.cn
 Administrative Coordinator:  tongyan.tang@hibiuh.edu.cn
 
 <br>
+
 ## Group Email Distribution Process
+
+Update: 2026.10.30
 
 DT staff and faculty may share announcements related to academic activities (e.g., calls for papers, competition calls) with DT students. Any person wishing to distribute such information shall first post it in the Faculty Committee Teams chat group (this group). If there are no objections, Ms. TANG will send the announcement to all DT students.
 
