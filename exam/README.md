@@ -4,7 +4,7 @@ For closed-book test, Digital Technologies, 2026.10.20
 
 <br>
 
-<img src="https://www.biuh-dt.com/img/20261104_phasetest.png" width="50">
+<img src="https://www.biuh-dt.com/img/20261104_phasetest.png" width="500">
 
 <br>
 
