@@ -4,6 +4,10 @@ For closed-book test, Digital Technologies, 2026.10.20
 
 <br>
 
+<img src="https://www.biuh-dt.com/img/20261104_phasetest.png" width="50">
+
+<br>
+
 **All instructors should announce this procedure during the class prior to the phase test.**
 
 所有老师需要在考试前一次课的时候公告一次本流程.
