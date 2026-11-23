@@ -37,6 +37,17 @@ If you spot any such violation, please email dt@hibiuh.edu.cn and cc feng.zhang@
 
 如果发现任何相关行为，请直接发送邮箱至 dt@hibiuh.edu.cn 并抄送 feng.zhang@hibiuh.edu.cn
 
+<br>
+
+## Grade Appeals from Students
+
+1. In principle, grade appeals from students will not be accepted by individual lecturers. Any grade appeal after the release of results must be copied to dt@hibiuh.edu.cn, with a clear description of the incident.
+
+2. Should a dispute arise, the DT will form a grade committee to review the contested marking and provide a response.
+
+3. Marking assignments must not rely entirely on AI. AI serves only as an assistant. Students must not be informed that assignments or projects are assessed solely by AI. Lecturers remain responsible for the marking process and outcomes, not the AI.
+
+<br>
 
 ## Reporting Process for Irregular Course Time Adjustments
 
