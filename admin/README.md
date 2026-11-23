@@ -41,6 +41,8 @@ If you spot any such violation, please email dt@hibiuh.edu.cn and cc feng.zhang@
 
 ## Grade Appeals from Students
 
+Update: 2026.11.22
+
 1. In principle, grade appeals from students will not be accepted by individual lecturers. Any grade appeal after the release of results must be copied to dt@hibiuh.edu.cn, with a clear description of the incident.
 
 2. Should a dispute arise, the DT will form a grade committee to review the contested marking and provide a response.
