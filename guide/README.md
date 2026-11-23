@@ -46,5 +46,11 @@ Step 3. Receive a response
 
 * ZHANG Feng \| feng.zhang@hibiuh.edu.cn \| Programming 1, Data Mininig, Intro to Scientific Work, Sequencing Data Analysis (workshop) \| PhD in biostatistics from Fudan University; Guest Associate Professor of Shanghai Children’s Hospital; former Research Associate Professor at SJTU School of Medicine; visiting scholar at CCHMC (USA)
 
+* LI Jiateng \| jiateng.li@hibiuh.edu.cn \| Lab Tech & Publicity \| Master's degree in Engineering, Electrical and Computer Engineering from Western University, Canada. His research interests include machine learning, embedded sensor, and flight-controller integration.
+
+
+
+
+
 
 
