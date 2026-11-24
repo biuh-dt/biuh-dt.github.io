@@ -44,18 +44,26 @@ For closed-book test, Digital Technologies, 2026.10.20
 
 <br>
 
-**Step 6. Orally announce the access code and start the exam.**
+**Step 6. Check all students finish logging into Canvas with SEB. Orally announce the access code and start the exam.**
 
-口头公布访问码，开始考试。
-
-<br>
-
-**Step 7. Late students (after collecting mobile phones) are not allowed to enter the exam room immediately. They should go to other classrooms or open areas on the 3rd floor of Building C and be admitted as a group 30 minutes after the exam starts. Late students cannot start the exam immediately. A batch of late students will be allowed to start 30 minutes after the official exam begins. Anyone arriving more than 30 minutes late will receive a zero.**
-
-晚到(收完手机)的不允许直接进入考场，先去C栋3楼其他教室或者开放区，30分钟后统一入场。晚到的同学不随时开始，而是开考30分钟后开始一批。超过30分钟没到的记0分。
+检查所有学生通过SEB登录Canvas。口头公布访问码，开始考试。
 
 <br>
 
-**Step 8. Students who finish the exam must leave the exam room immediately. If necessary, the instructor will specify when they may return to the classroom.**
+**Step 7. Late students (after collecting mobile phones) are not allowed to enter the exam room immediately. They should go to other classrooms or open areas on the 3rd floor of Building C and be admitted as a group 30 minutes after the exam starts. Late students cannot start the exam immediately. A batch of late students will be allowed to start 30 minutes after the official exam begins. Type the changed access code for them. Anyone arriving more than 30 minutes late will receive a zero.**
+
+晚到(收完手机)的不允许直接进入考场，先去C栋3楼其他教室或者开放区，30分钟后统一入场。晚到的同学不随时开始，而是开考30分钟后开始一批。由监考手动为晚到同学输入修改后的访问码。超过30分钟没到的记0分。
+
+<br>
+
+**Step 8. Ask students to click exit link to quit SEB after they finish their exam.**
+
+要求完成考试的同学点击退出链接以退出seb。
+
+<br>
+
+**Step 9. Students who finish the exam must leave the exam room immediately. If necessary, the instructor will specify when they may return to the classroom.**
 
 做完的同学必须立刻离开考场，如果有需要，由教师指定回到教室的时间。
+
+
