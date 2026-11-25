@@ -46,7 +46,7 @@ For closed-book test, Digital Technologies, 2026.10.20
 
 **Step 6. Check all students finish logging into Canvas with SEB. Orally announce the access code and start the exam.**
 
-检查所有学生通过SEB登录Canvas。口头公布访问码，开始考试。
+检查所有学生通过安全浏览器登录Canvas。口头公布访问码，开始考试。
 
 <br>
 
@@ -58,7 +58,7 @@ For closed-book test, Digital Technologies, 2026.10.20
 
 **Step 8. Ask students to click exit link to quit SEB after they finish their exam.**
 
-要求完成考试的同学点击退出链接以退出seb。
+要求完成考试的同学点击退出链接以退出安全浏览器。
 
 <br>
 
