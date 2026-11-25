@@ -56,7 +56,7 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 ## 4. Equipment Borrowing — Mr LI Jiateng
 
 1. Email **Mr LI** at least 3 working days ahead — items, purpose, and pickup/return dates.
-2. If available, **pick it up and sign the equipment log**; if not, ask Mr HE for alternatives.
+2. If available, **pick it up and sign the equipment log**; if not, ask Mr Li for alternatives.
 3. Use the equipment — handle it responsibly.
 4. **Return it on time and sign off**; need it longer? email before the due date.
 
