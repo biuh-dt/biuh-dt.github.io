@@ -13,9 +13,10 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 | Lab Tech | Responsibility | Email |
 |---|---|---|
 | **LI Yue** | Academic & course-related lab activity; general management | yue.li@hibiuh.edu.cn |
-| **HE Pu** | Teaching Labs & equipment management | pu.he@hibiuh.edu.cn |
+| **HE Pu** | Teaching Labs management | pu.he@hibiuh.edu.cn |
 | **PAN Qunyi** | Computer Labs management; Phase Test | qunyi.pan@hibiuh.edu.cn |
-| **Guilherme VIEGAS** | Lab activity organization & promotion | guilherme.viegas@hibiuh.edu.cn |
+| **Guilherme VIEGAS** | Lab activity organization | guilherme.viegas@hibiuh.edu.cn |
+| **LI Jiateng** | Lab equipment management; Company cooperation & promotion | jiateng.li@hibiuh.edu.cn |
 
 <br>
 
@@ -52,9 +53,9 @@ Every request email states **who · what · when**, and **cc's Prof. ZHANG Feng*
 
 <br>
 
-## 4. Equipment Borrowing — Mr HE Pu
+## 4. Equipment Borrowing — Mr LI Jiateng
 
-1. Email **Mr HE** at least 3 working days ahead — items, purpose, and pickup/return dates.
+1. Email **Mr LI** at least 3 working days ahead — items, purpose, and pickup/return dates.
 2. If available, **pick it up and sign the equipment log**; if not, ask Mr HE for alternatives.
 3. Use the equipment — handle it responsibly.
 4. **Return it on time and sign off**; need it longer? email before the due date.
@@ -85,7 +86,8 @@ Booking and scheduling requests are always handled **by email** (see above). But
 | Situation | Teams call |
 |---|---|
 | Computer Lab issues (software, login, hardware, network) | **PAN Qunyi** |
-| Teaching Lab issues (equipment, safety, room access) | **HE Pu** |
+| Teaching Lab issues (safety, room access) | **HE Pu** |
+| Lab equipment issues (use, borrow, failure) | **LI Jiateng** |
 | Phase Test issues (exam setup, Exam Browser, exam data) | **PAN Qunyi** |
 | Lab Server issues (access, server failure) | **Guilherme VIEGAS** |
 | Corresponding Lab Tech unavailable | **LI Yue** → then **Prof. ZHANG Feng** |
